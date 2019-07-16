@@ -1,0 +1,30 @@
+C00001	H2O	1
+C00002	ATP	2
+C00003	NAD+	3
+C00004	NADH	4
+C00005	NADPH	5
+C00006	NADP+	6
+C00009	Orthophosphate	8
+C00010	CoA	9
+C00011	CO2	10
+C00013	Diphosphate	11
+C00014	Ammonia	12
+C00016	FAD	14
+C00019	S-Adenosyl-L-methionine	15
+C00027	Hydrogen peroxide	22
+C00044	GTP	29
+C00051	Glutathione	31
+C00053	3'-Phosphoadenylyl sulfate	32
+C00061	FMN	36
+C00063	CTP	38
+C00068	Thiamin diphosphate	41
+C00075	UTP	44
+C00080	H+	46
+C00081	ITP	47
+C00101	Tetrahydrofolate	58
+C00272	Tetrahydrobiopterin	112
+C00288	HCO3-	116
+C01217	5,6,7,8-Tetrahydromethanopterin	192
+C01352	FADH2	197
+C01528	Hydrogen selenide	199
+C05684	Selenite	262

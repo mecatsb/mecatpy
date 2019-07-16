@@ -1,0 +1,22 @@
+C00022	Pyruvate
+C00025	L-Glutamate
+C00026	2-Oxoglutarate
+C00031	D-Glucose
+C00033	Acetate
+C00036	Oxaloacetate
+C00037	Glycine
+C00049	L-Aspartate
+C00062	L-Arginine
+C00064	L-Glutamine
+C00065	L-Serine
+C00073	L-Methionine
+C00077	L-Ornithine
+C00089	Sucrose
+C00092	D-Glucose 6-phosphate
+C00095	D-Fructose
+C00097	L-Cysteine
+C00116	Glycerol
+C00122	Fumarate
+C00152	L-Asparagine
+C00188	L-Threonine
+C00267	alpha-D-Glucose

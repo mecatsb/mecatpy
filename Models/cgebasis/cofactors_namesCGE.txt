@@ -1,0 +1,54 @@
+C00001	H2O	1
+C00002	ATP	2
+C00003	NAD+	3
+C00004	NADH	4
+C00005	NADPH	5
+C00006	NADP+	6
+C00007	Oxygen	7
+C00009	Orthophosphate	9
+C00010	CoA	10
+C00011	CO2	11
+C00013	Diphosphate	12
+C00014	Ammonia	13
+C00016	FAD	15
+C00019	S-Adenosyl-L-methionine	17
+C00027	Hydrogen peroxide	24
+C00044	GTP	35
+C00051	Glutathione	39
+C00053	3'-Phosphoadenylyl sulfate	41
+C00059	Sulfate	45
+C00061	FMN	46
+C00063	CTP	48
+C00068	Thiamin diphosphate	52
+C00075	UTP	56
+C00080	H+	60
+C00081	ITP	61
+C00094	Sulfite	72
+C00101	Tetrahydrofolate	78
+C00177	Cyanide ion	131
+C00237	CO	168
+C00272	Tetrahydrobiopterin	190
+C00283	Hydrogen sulfide	194
+C00288	HCO3-	196
+C00320	Thiosulfate	212
+C00533	Nitric oxide	305
+C00536	Triphosphate	308
+C00704	O2.-	365
+C00708	Iodide	367
+C01217	5,6,7,8-Tetrahydromethanopterin	490
+C01327	Hydrochloric acid	513
+C01352	FADH2	517
+C01353	Carbonic acid	518
+C01382	Iodine	520
+C01528	Hydrogen selenide	527
+C05172	Selenophosphoric acid	818
+C05361	Hydrazine	858
+C05590	Hydroiodic acid	928
+C05684	Selenite	949
+C05697	Selenate	956
+C06232	Molybdate	1031
+C06697	Arsenite	1057
+C13645	Hydrobromic acid	1161
+C14818	Fe2+	1197
+C14819	Fe3+	1198
+C16487	Hydrofluoric acid	1322

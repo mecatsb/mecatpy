@@ -1,0 +1,82 @@
+C00002	ATP
+C00044	GTP
+C00063	CTP
+C00075	UTP
+C00081	ITP	
+C00004	NADH
+C00005	NADPH
+C00019	SAM
+C00101	THF
+C00010	CoASH
+C00006	NADP
+C00003	NAD+
+C00016	FAD
+C01352	FADH2
+C03576	Coenzyme M
+C04628	Coenzyme B
+C00051	Glutathione
+C00053	PAPS
+C00272	Tetrahydrobiopterin
+C01217	THMPT
+C00068	TPP
+C00113	PQQ
+C00061	FMN
+C01847	FMNH2
+C00001	H2O
+C00007	Oxygen
+C00009	Orthophosphate
+C00011	CO2
+C00013	Diphosphate
+C00014	Ammonia
+C00027	Hydrogen peroxide
+C00059	Sulfate
+C00080	H+
+C00087	Sulfur
+C00088	Nitrite
+C00094	Sulfite
+C00175	Cobalt ion
+C00177	Cyanide ion
+C00192	Hydroxylamine
+C00237	CO
+C00244	Nitrate
+C00282	Hydrogen
+C00283	Hydrogen sulfide
+C00288	HCO3-
+C00305	Magnesium cation
+C00320	Thiosulfate
+C00533	Nitric oxide
+C00536	Triphosphate
+C00697	Nitrogen
+C00698	Cl-
+C00703	Mercury(2+)
+C00704	O2.-
+C00708	Iodide
+C00742	Fluoride
+C00887	Nitrous oxide
+C01319	Hg
+C01324	Bromide
+C01326	Hydrogen cyanide
+C01327	Hydrochloric acid
+C01353	Carbonic acid
+C01382	Iodine
+C01417	Cyanate
+C01528	Hydrogen selenide
+C01818	Hyponitrite
+C01861	Trithionate
+C02084	Tetrathionate
+C02306	Phosphoramidate
+C05172	Selenophosphoric acid
+C05361	Hydrazine
+C05590	Hydroiodic acid
+C05684	Selenite
+C05697	Selenate
+C06232	Molybdate
+C06697	Arsenite
+C06701	Phosphonic acid
+C09306	Sulfur dioxide
+C11481	HSO3-
+C13645	Hydrobromic acid
+C14818	Fe2+
+C14819	Fe3+
+C16487	Hydrofluoric acid
+C19609	Nickel(2+)

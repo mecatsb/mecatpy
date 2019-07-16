@@ -1,0 +1,878 @@
+C05998	3-Hydroxyisovaleryl-CoA
+C03460	2-Methylprop-2-enoyl-CoA
+C01286	2-Dehydro-3-deoxy-6-phospho-D-galactonate
+C11838	(S)-4,5-Dihydroxypentane-2,3-dione
+C02067	Pseudouridine
+C05898	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+C00527	Glutaryl-CoA
+C00679	5-Dehydro-4-deoxy-D-glucarate
+C20497	N-Acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+C06377	D-Galactosamine 6-phosphate
+C12834	2,5-Dichloro-carboxymethylenebut-2-en-4-olide
+C04272	(R)-2,3-Dihydroxy-3-methylbutanoate
+C16153	UDP-L-Ara4N
+C03175	Shikimate 3-phosphate
+C00024	Acetyl-CoA
+C05698	Selenohomocysteine
+C20749	4-Trimethylammoniobutanoyl-CoA
+C00093	sn-Glycerol 3-phosphate
+C00234	10-Formyltetrahydrofolate
+C00315	Spermidine
+C16332	trans-2-Enoyl-OPC6-CoA
+C06790	Trichloroethene
+C01050	UDP-N-acetylmuramate
+C17962	Demethylphosphinothricin
+C05272	trans-Hexadec-2-enoyl-CoA
+C20232	(Z)-2-Methylureidoacrylate peracid
+C00170	5'-Methylthioadenosine
+C00882	Dephospho-CoA
+C01007	Reduced riboflavin
+C16477	5-Fluoromuconolactone
+C00199	D-Ribulose 5-phosphate
+C20249	(Z)-3-Peroxyaminoacrylate
+C04882	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine
+C16337	3-Hydroxy-OPC4-CoA
+C06441	L-Xylulose 1-phosphate
+C02970	Decaprenol phosphate
+C06002	(S)-Methylmalonate semialdehyde
+C04702	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)
+C05699	L-Selenocystathionine
+C01250	N-Acetyl-L-glutamate 5-semialdehyde
+C20415	dTDP-4-acetamido-4,6-dideoxy-alpha-D-galactose
+C00248	Lipoamide
+C06006	(S)-2-Aceto-2-hydroxybutanoate
+C00844	Prunasin
+C21749	5-Fluorouridine triphosphate
+C00233	4-Methyl-2-oxopentanoate
+C05691	Se-Adenosylselenomethionine
+C02291	L-Cystathionine
+C00559	Deoxyadenosine
+C04677	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+C00417	cis-Aconitate
+C00558	D-Tagaturonate
+C00168	Hydroxypyruvate
+C00921	Dihydropteroate
+C04030	(2,3-Dihydroxybenzoyl)adenylate
+C16586	2-Phenyl-1,3-propanediol monocarbamate
+C02631	2-Isopropylmaleate
+C16272	3-Hydroxy-5-oxohexanoate
+C15527	Precorrin 1
+C20960	3-Hydroxy-5-phosphooxypentane-2,4-dione
+C00147	Adenine
+C01213	(R)-Methylmalonyl-CoA
+C15672	Heme O
+C00311	Isocitrate
+C00534	Pyridoxamine
+C06000	(S)-3-Hydroxyisobutyryl-CoA
+C05696	3'-Phosphoadenylylselenate
+C01302	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+C20248	7-Carboxy-7-carbaguanine
+C06506	Adenosyl cobyrinate a,c diamide
+C05665	3-Aminopropanal
+C05125	2-(alpha-Hydroxyethyl)thiamine diphosphate
+C18309	3-Chloro-2-methyldienelactone
+C00668	alpha-D-Glucose 6-phosphate
+C02380	6-Mercaptopurine
+C00365	dUMP
+C04646	6-Thioinosine-5'-monophosphate
+C21153	Adenosylcobalamin 5'-phosphate
+C20957	L-Alanyl-D-glutamate
+C03742	(S)-4-Hydroxymandelonitrile
+C05897	Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine
+C00109	2-Oxobutanoate
+C04281	L-1-Pyrroline-3-hydroxy-5-carboxylate
+C01151	D-Ribose 1,5-bisphosphate
+C14847	3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene
+C06714	3-Hydroxypimeloyl-CoA
+C03684	6-Pyruvoyltetrahydropterin
+C16468	(2E)-5-Methylhexa-2,4-dienoyl-CoA
+C13425	3-Hexaprenyl-4-hydroxybenzoate
+C07649	5-FU
+C00232	Succinate semialdehyde
+C05928	(6R)-10-Formyltetrahydropteroyldiglutamate
+C04044	3-(2,3-Dihydroxyphenyl)propanoate
+C14858	2,2-Dichloroacetaldehyde
+C06240	UDP-N-acetyl-D-mannosaminouronate
+C04856	(6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+C01300	6-(Hydroxymethyl)-7,8-dihydropterin
+C00067	Formaldehyde
+C16339	(+)-7-Isojasmonic acid CoA
+C21065	7,8-Dihydroxanthopterin
+C02917	(S)-Propane-1,2-diol
+C21157	KDO2-lipid A 1-diphosphate
+C00499	Allantoate
+C20830	6-Deoxy-6-sulfo-D-fructose
+C16333	3-Hydroxy-OPC6-CoA
+C01487	D-Allose
+C05268	(S)-Hydroxyhexanoyl-CoA
+C11278	Aflatoxin B1exo-8,9-epoxide-GSH
+C01083	alpha,alpha-Trehalose
+C06899	Chloral hydrate
+C18096	D-Allulose 6-phosphate
+C02739	1-(5-Phospho-D-ribosyl)-ATP
+C04501	N-Acetyl-alpha-D-glucosamine 1-phosphate
+C01279	4-Amino-5-hydroxymethyl-2-methylpyrimidine
+C00441	L-Aspartate 4-semialdehyde
+C19770	N-Acetyl-beta-muramate 6-phosphate
+C05811	2-Octaprenyl-6-hydroxyphenol
+C00526	Deoxyuridine
+C00446	alpha-D-Galactose 1-phosphate
+C00325	GDP-L-fucose
+C00415	Dihydrofolate
+C00262	Hypoxanthine
+C03356	3-Phospho-D-erythronate
+C05527	3-Sulfinylpyruvate
+C01005	O-Phospho-L-serine
+C16489	Fructoselysine 6-phosphate
+C01187	3-Deoxy-D-manno-octulosonate
+C03826	2-Dehydro-3-deoxy-D-xylonate
+C04640	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine
+C21028	(R)-5,6-Dihydrothymine
+C00458	dCTP
+C05260	(S)-3-Hydroxytetradecanoyl-CoA
+C05810	2-Octaprenylphenol
+C04752	4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate
+C03657	1,4-Dihydroxy-2-naphthoate
+C02714	N-Acetylputrescine
+C16633	5-Fluorouridine
+C14865	2-(S-Glutathionyl)acetyl chloride
+C01019	6-Deoxy-L-galactose
+C01185	Nicotinate D-ribonucleotide
+C02338	beta-L-Rhamnose
+C01289	N-Acetyl-D-glucosaminyldiphosphoundecaprenol
+C17556	di-trans,poly-cis-Undecaprenyl phosphate
+C18239	Precursor Z
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate
+C11946	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+C05925	Dihydroneopterin phosphate
+C00083	Malonyl-CoA
+C19771	2'-(5-Triphosphoribosyl)-3'-dephospho-CoA
+C05512	Deoxyinosine
+C05264	(S)-Hydroxydecanoyl-CoA
+C05817	(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate
+C01179	3-(4-Hydroxyphenyl)pyruvate
+C00035	GDP
+C00196	2,3-Dihydroxybenzoate
+C00159	D-Mannose
+C16631	alpha-Fluoro-beta-ureidopropionic acid
+C00137	myo-Inositol
+C05932	N-Succinyl-L-glutamate 5-semialdehyde
+C01182	D-Ribulose 1,5-bisphosphate
+C00235	Dimethylallyl diphosphate
+C00498	ADP-glucose
+C07838	D-glycero-beta-D-manno-Heptose 1-phosphate
+C18094	UDP-L-arabinofuranose
+C14803	1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene
+C17952	N-Acetylphosphinothricin
+C02226	2-Methylmaleate
+C20646	(3S)-2-Oxo-3-phenylbutanoate
+C04043	3,4-Dihydroxyphenylacetaldehyde
+C16399	2,4-Diamino-6-hydroxylaminotoluene
+C02730	2-Succinylbenzoate
+C09332	THF-L-glutamate
+C20390	N-Acetyl-alpha-D-glucosaminyl-diphospho-trans,octacis-decaprenol
+C21008	7,8-Dihydromonapterin
+C06001	(S)-3-Hydroxyisobutyrate
+C00118	D-Glyceraldehyde 3-phosphate
+C03722	Quinolinate
+C00798	Formyl-CoA
+C00245	Taurine
+C04462	N-Succinyl-2-L-amino-6-oxoheptanedioate
+C01172	beta-D-Glucose 6-phosphate
+C00099	beta-Alanine
+C20750	L-Carnitinyl-CoA
+C00530	Hydroquinone
+C04411	(2R,3S)-3-Isopropylmalate
+C05266	(S)-3-Hydroxyoctanoyl-CoA
+C03150	Nicotinamide-beta-riboside
+C01180	4-Methylthio-2-oxobutanoic acid
+C20798	2-Hydroxy-3-oxopropane-1-sulfonate
+C04421	N-Succinyl-LL-2,6-diaminoheptanedioate
+C00719	Betaine
+C00084	Acetaldehyde
+C15767	4-(L-gamma-Glutamylamino)butanoate
+C04643	7-Oxodeoxycholate
+C14144	5-Carboxy-2-pentenoyl-CoA
+C11537	(2R)-3-Sulfolactate
+C14792	(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene
+C00294	Inosine
+C00279	D-Erythrose 4-phosphate
+C01131	L-Rhamnulose 1-phosphate
+C00194	Cobamide coenzyme
+C00334	4-Aminobutanoate
+C02912	(R)-Propane-1,2-diol
+C04146	all-trans-Octaprenyl diphosphate
+C00129	Isopentenyl diphosphate
+C04874	7,8-Dihydroneopterin
+C05402	Melibiose
+C00153	Nicotinamide
+C06508	Adenosyl cobinamide
+C03373	Aminoimidazole ribotide
+C04691	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate
+C03064	3-Dehydro-L-threonate
+C00134	Putrescine
+C00203	UDP-N-acetyl-D-galactosamine
+C02225	2-Methylcitrate
+C00740	D-Serine
+C00705	dCDP
+C00058	Formate
+C01096	Sorbitol 6-phosphate
+C16331	OPC6-CoA
+C04039	2,3-Dihydroxy-3-methylbutanoate
+C16173	(4Z,7Z,10Z,13Z,16Z)-Docosapentaenoyl-CoA
+C21751	5-Fluorodeoxyuridine triphosphate
+C06735	Aminoacetaldehyde
+C01212	UDP-N-acetylmuramoyl-L-alanine
+C05775	alpha-Ribazole
+C00302	Glutamate
+C00239	dCMP
+C03741	(S)-4-Amino-5-oxopentanoate
+C05364	4-Carboxy-2-oxo-3-hexenedioate
+C11355	4-Amino-4-deoxychorismate
+C05923	2,5-Diaminopyrimidine nucleoside triphosphate
+C04877	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate
+C05946	(4R)-4-Hydroxy-2-oxoglutarate
+C14868	S-(1,2-Dichlorovinyl)glutathione
+C00800	L-Gulonate
+C14791	(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene
+C01216	2-Dehydro-3-deoxy-D-galactonate
+C00455	Nicotinamide D-ribonucleotide
+C00750	Spermine
+C00091	Succinyl-CoA
+C16336	trans-2-Enoyl-OPC4-CoA
+C00944	3-Dehydroquinate
+C00314	Pyridoxine
+C19459	Methyl red
+C04489	5-Methyltetrahydropteroyltri-L-glutamate
+C00166	Phenylpyruvate
+C04479	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate
+C04144	Tetrahydropteroyltri-L-glutamate
+C01118	O-Succinyl-L-homoserine
+C04896	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide
+C00266	Glycolaldehyde
+C05824	S-Sulfo-L-cysteine
+C05770	Coproporphyrin III
+C04734	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+C06762	4-Hydroxy-2-oxohexanoic acid
+C02222	2-Maleylacetate
+C01267	3-(Imidazol-4-yl)-2-oxopropyl phosphate
+C00689	alpha,alpha'-Trehalose 6-phosphate
+C20835	alpha-L-Fucopyranose
+C11436	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+C21748	5-Fluorouridine diphosphate
+C00522	(R)-Pantoate
+C00627	Pyridoxine phosphate
+C00460	dUTP
+C00270	N-Acetylneuraminate
+C15556	L-3,4-Dihydroxybutan-2-one 4-phosphate
+C19883	alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[4-P-L-Ara4N]-lipid IVA
+C05116	3-Hydroxybutanoyl-CoA
+C04732	5-Amino-6-(1-D-ribitylamino)uracil
+C01204	Phytic acid
+C11039	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate
+C06032	D-erythro-3-Methylmalate
+C00631	2-Phospho-D-glycerate
+C00508	L-Ribulose
+C00601	Phenylacetaldehyde
+C00577	D-Glyceraldehyde
+C00131	dATP
+C15667	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole
+C21284	Fe-coproporphyrin III
+C14855	4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+C06054	2-Oxo-3-hydroxy-4-phosphobutanoate
+C00645	N-Acetyl-D-mannosamine
+C00362	dGMP
+C02463	Precorrin 2
+C01127	4-Hydroxy-2-oxoglutarate
+C03090	5-Phosphoribosylamine
+C01112	D-Arabinose 5-phosphate
+C20895	(2S,3S)-3-Methylphenylalanine
+C11038	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate
+C00052	UDP-alpha-D-galactose
+C16615	6-Methylthiopurine 5'-monophosphate ribonucleotide
+C16551	Alcophosphamide
+C18902	Methylselenic acid
+C10974	4-Methylaminobutanal
+C04778	N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole
+C00459	dTTP
+C00074	Phosphoenolpyruvate
+C18304	2-Chloro-5-methyl-cis-dienelactone
+C05929	10-Formyltetrahydrofolylpolyglutamate
+C00497	(R)-Malate
+C05335	L-Selenomethionine
+C16630	5,6-Dihydro-5-fluorouracil
+C00492	Raffinose
+C14856	7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+C06187	Arbutin 6-phosphate
+C18237	Molybdoenzyme molybdenum cofactor
+C02659	Acetone cyanohydrin
+C00385	Xanthine
+C01094	D-Fructose 1-phosphate
+C00141	3-Methyl-2-oxobutanoic acid
+C00330	Deoxyguanosine
+C02476	alpha-L-Rhamnose
+C00352	D-Glucosamine 6-phosphate
+C06761	(4E)-2-Oxohexenoic acid
+C04478	3-Deoxy-D-manno-octulosonate 8-phosphate
+C11437	1-Deoxy-D-xylulose 5-phosphate
+C00463	Indole
+C04895	7,8-Dihydroneopterin 3'-triphosphate
+C04631	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine
+C00864	Pantothenate
+C01345	dITP
+C16476	4-Fluoromuconolactone
+C00580	Dimethyl sulfide
+C03089	5-Methylthio-D-ribose
+C12624	2-Hydroxy-6-ketononatrienedioate
+C02501	2-Hydroxymuconate
+C03539	S-Ribosyl-L-homocysteine
+C00250	Pyridoxal
+C05276	trans-Oct-2-enoyl-CoA
+C06024	3-Deoxy-D-manno-octulosonyl-lipid IV(A)
+C00357	N-Acetyl-D-glucosamine 6-phosphate
+C01344	dIDP
+C05258	(S)-3-Hydroxyhexadecanoyl-CoA
+C17949	N-Acetyldemethylphosphinothricin
+C03972	2,3,4,5-Tetrahydrodipicolinate
+C02336	beta-D-Fructose
+C00181	D-Xylose
+C00490	Itaconate
+C00254	Prephenate
+C00489	Glutarate
+C07091	cis-Acetylacrylate
+C00445	5,10-Methenyltetrahydrofolate
+C01102	O-Phospho-L-homoserine
+C03453	gamma-Oxalocrotonate
+C00692	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate
+C01063	6-Carboxyhexanoyl-CoA
+C00178	Thymine
+C00387	Guanosine
+C00354	D-Fructose 1,6-bisphosphate
+C00493	Shikimate
+C16519	2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate
+C06196	2'-Deoxyinosine 5'-phosphate
+C00663	beta-D-Glucose 1-phosphate
+C19968	8-Oxo-dGMP
+C00437	N-Acetylornithine
+C11434	2-C-Methyl-D-erythritol 4-phosphate
+C03345	2-Methylbut-2-enoyl-CoA
+C20239	6-Carboxy-5,6,7,8-tetrahydropterin
+C00507	L-Rhamnose
+C00216	D-Arabinose
+C00491	L-Cystine
+C19890	alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[4-P-L-Ara4N]-lipid A
+C14899	3-Dehydro-L-gulonate 6-phosphate
+C00861	L-Rhamnulose
+C04171	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate
+C17569	Ubiquinone-8
+C00253	Nicotinate
+C20253	Aminoacrylate
+C00256	(R)-Lactate
+C05703	Methaneselenol
+C05551	Penicillin G
+C21612	3-Dehydro-L-erythronate
+C03921	2-Dehydro-3-deoxy-D-glucarate
+C01181	4-Trimethylammoniobutanoate
+C15668	1-Pyrroline
+C14793	(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene
+C11472	D-glycero-beta-D-manno-Heptose 1,7-bisphosphate
+C00180	Benzoate
+C03242	Dihomo-gamma-linolenate
+C21016	Ophthalmate
+C00251	Chorismate
+C02565	N-Methylhydantoin
+C03794	N6-(1,2-Dicarboxyethyl)-AMP
+C00333	D-Galacturonate
+C00106	Uracil
+C02642	3-Ureidopropionate
+C05893	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+C07118	Benzoylacetyl-CoA
+C01062	5-Dehydro-D-gluconate
+C21750	5-Fluorodeoxyuridine diphosphate
+C02637	3-Dehydroshikimate
+C20831	6-Deoxy-6-sulfo-D-fructose 1-phosphate
+C21618	2-Dehydro-L-erythronate
+C00258	D-Glycerate
+C00881	Deoxycytidine
+C00475	Cytidine
+C00712	(9Z)-Octadecenoic acid
+C22002	Lipid IIB
+C20905	2-Iminobutanoate
+C00295	Orotate
+C21403	2-Acetamidoethylphosphonate
+C05931	N-Succinyl-L-glutamate
+C16488	Fructoselysine
+C03733	UDP-alpha-D-galactofuranose
+C11435	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+C05280	cis,cis-3,6-Dodecadienoyl-CoA
+C16329	3-Hydroxy-OPC8-CoA
+C00309	D-Ribulose
+C03226	3-Demethylubiquinone-9
+C06193	Guanosine 3'-phosphate
+C11088	1,2-Dibromoethane
+C00055	CMP
+C03785	D-Tagatose 1,6-bisphosphate
+C05730	Glutathionylspermidine
+C16335	OPC4-CoA
+C05815	2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone
+C00469	Ethanol
+C00606	3-Sulfino-L-alanine
+C01051	Uroporphyrinogen III
+C01909	Dethiobiotin
+C12215	Iminoerythrose 4-phosphate
+C03232	3-Phosphonooxypyruvate
+C05399	Melibiitol
+C03451	(R)-S-Lactoylglutathione
+C00366	Urate
+C00204	2-Dehydro-3-deoxy-D-gluconate
+C01368	3'-UMP
+C00140	N-Acetyl-D-glucosamine
+C04579	Inositol 1,2,3,5,6-pentakisphosphate
+C05404	D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose
+C05805	2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone
+C00473	Retinol
+C05812	2-Octaprenyl-6-methoxyphenol
+C05576	3,4-Dihydroxyphenylethyleneglycol
+C06429	(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid
+C00673	2-Deoxy-D-ribose 5-phosphate
+C00143	5,10-Methylenetetrahydrofolate
+C00337	(S)-Dihydroorotate
+C05400	Epimelibiose
+C01144	(S)-3-Hydroxybutanoyl-CoA
+C15930	L-Galactonate
+C00857	Deamino-NAD+
+C00197	3-Phospho-D-glycerate
+C20829	Sulfoquinovose
+C04376	5'-Phosphoribosyl-N-formylglycinamide
+C00688	dTDP-4-dehydro-beta-L-rhamnose
+C04349	(4S)-4,6-Dihydroxy-2,5-dioxohexanoate
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate
+C05819	Menaquinol
+C00531	Itaconyl-CoA
+C14857	1,1-Dichloroethylene epoxide
+C20422	alpha-D-Ribose 1-methylphosphonate 5-triphosphate
+C05814	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone
+C04742	(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate
+C00680	meso-2,6-Diaminoheptanedioate
+C04574	di-trans,poly-cis-Undecaprenyl diphosphate
+C00853	Cob(I)alamin
+C11514	(E)-3-(Methoxycarbonyl)pent-2-enedioate
+C20258	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate
+C01037	7,8-Diaminononanoate
+C12455	5-Aminopentanal
+C19871	Guanylyl molybdenum cofactor
+C02512	3-Cyano-L-alanine
+C20836	beta-L-Fucopyranose
+C01031	S-Formylglutathione
+C20959	(4S)-4-Hydroxy-5-phosphooxypentane-2,3-dione
+C04823	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+C20423	alpha-D-Ribose 1-methylphosphonate 5-phosphate
+C00430	5-Aminolevulinate
+C00222	3-Oxopropanoate
+C06010	(S)-2-Acetolactate
+C01137	S-Adenosylmethioninamine
+C02741	Phosphoribosyl-AMP
+C16634	5-Fluorouridine monophosphate
+C04593	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate
+C00114	Choline
+C05774	Cobinamide
+C00512	Benzoyl-CoA
+C01762	Xanthosine
+C07478	2-Hydroxy-5-methyl-cis,cis-muconate
+C15673	2-Dehydro-L-idonate
+C00992	Aquacob(III)alamin
+C00514	D-Mannonate
+C05804	2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone
+C00957	Mercaptopyruvate
+C01228	Guanosine 3',5'-bis(diphosphate)
+C08353	beta-D-Ribopyranose
+C00431	5-Aminopentanoate
+C11945	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+C04807	6-Hydroxymethyl-7,8-dihydropterin diphosphate
+C06148	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine
+C01077	O-Acetyl-L-homoserine
+C04352	(R)-4'-Phosphopantothenoyl-L-cysteine
+C04377	5,10-Methylenetetrahydromethanopterin
+C05275	trans-Dec-2-enoyl-CoA
+C00748	Siroheme
+C06428	(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid
+C06178	1-Methylpyrrolinium
+C20498	4-Acetamido-4,6-dideoxy-alpha-D-galactosyl-(1->4)-N-acetyl-beta-D-mannosaminuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+C00108	Anthranilate
+C00438	N-Carbamoyl-L-aspartate
+C00860	L-Histidinol
+C00219	Arachidonate
+C06026	KDO2-lipid A
+C06427	(9Z,12Z,15Z)-Octadecatrienoic acid
+C00542	Cystathionine
+C04805	5(S)-HETE
+C00043	UDP-N-acetyl-alpha-D-glucosamine
+C21617	2-Dehydro-D-erythronate
+C06022	UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine
+C07479	2-Oxo-5-methyl-cis-muconate
+C05778	Sirohydrochlorin
+C00695	Cholic acid
+C07086	Phenylacetic acid
+C00313	Oxalyl-CoA
+C20797	2,3-Dihydroxypropane-1-sulfonate
+C12248	5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate
+C05809	3-Octaprenyl-4-hydroxybenzoate
+C00582	Phenylacetyl-CoA
+C05768	Coproporphyrinogen I
+C00130	IMP
+C01134	Pantetheine 4'-phosphate
+C00191	D-Glucuronate
+C00376	Retinal
+C03492	D-4'-Phosphopantothenate
+C04916	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide
+C02097	dTDP-galactose
+C20483	(6R)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+C04851	MurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala)-diphospho-undecaprenol
+C05271	trans-Hex-2-enoyl-CoA
+C00227	Acetyl phosphate
+C04919	2,3,2'3'-Tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate
+C17568	Ubiquinone-6
+C01346	dUDP
+C00826	L-Arogenate
+C05841	Nicotinate D-ribonucleoside
+C03561	(R)-3-Hydroxybutanoyl-CoA
+C03360	4-Nitrophenyl phosphate
+C21761	(3R)-3-Hydroxy-4-oxobutanoate
+C00931	Porphobilinogen
+C00836	Sphinganine
+C11638	3-Amino-2-oxopropyl phosphate
+C06056	4-Hydroxy-L-threonine
+C04900	Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide
+C00870	4-Nitrophenol
+C21610	3-Dehydro-4-phospho-D-erythronate
+C00624	N-Acetyl-L-glutamate
+C11544	2-O-(alpha-D-Mannosyl)-D-glycerate
+C21747	N-Acetyl-beta-D-glucosaminyl-(1->4)-D-glucosamine
+C05528	3-Sulfopyruvate
+C03885	3-Nonaprenyl-4-hydroxybenzoate
+C19586	Aflatoxin B1-exo-8,9-epoxide
+C00937	(R)-Lactaldehyde
+C05921	Biotinyl-5'-AMP
+C11588	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol
+C19945	3-Oxo-5,6-dehydrosuberyl-CoA
+C18243	2,3,5-Trichloromaleylacetate
+C00380	Cytosine
+C00032	Heme
+C14806	1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene
+C04257	N-Acetyl-D-mannosamine 6-phosphate
+C03313	Phylloquinol
+C01101	L-Ribulose 5-phosphate
+C02130	Acetyl-maltose
+C19878	D-glycero-alpha-D-manno-Heptose 7-phosphate
+C01563	Carbamate
+C00802	Oxalureate
+C20748	(E)-4-(Trimethylammonio)but-2-enoyl-CoA
+C00112	CDP
+C05356	5(S)-HPETE
+C11811	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate
+C04454	5-Amino-6-(5'-phospho-D-ribitylamino)uracil
+C04225	(Z)-But-2-ene-1,2,3-tricarboxylate
+C04145	all-trans-Nonaprenyl diphosphate
+C05262	(S)-3-Hydroxydodecanoyl-CoA
+C19792	2-O-(alpha-D-Glucopyranosyl)-D-glycerate
+C02504	alpha-Isopropylmalate
+C05947	L-erythro-4-Hydroxyglutamate
+C15996	7-Cyano-7-carbaguanine
+C03284	L-3-Aminoisobutanoate
+C05273	trans-Tetradec-2-enoyl-CoA
+C00756	1-Octanol
+C00566	(3S)-Citryl-CoA
+C00579	Dihydrolipoamide
+C21611	3-Dehydro-4-phospho-L-erythronate
+C01092	8-Amino-7-oxononanoate
+C04405	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA
+C19880	D-glycero-alpha-D-manno-Heptose 1-phosphate
+C00671	(S)-3-Methyl-2-oxopentanoic acid
+C00448	trans,trans-Farnesyl diphosphate
+C06055	O-Phospho-4-hydroxy-L-threonine
+C00647	Pyridoxamine phosphate
+C00286	dGTP
+C04181	3-Hydroxy-3-methyl-2-oxobutanoic acid
+C14463	(R)-3-Hydroxy-3-methyl-2-oxopentanoate
+C01079	Protoporphyrinogen IX
+C07836	D-glycero-beta-D-manno-Heptose 7-phosphate
+C01024	Hydroxymethylbilane
+C19848	Adenylated molybdopterin
+C14864	S-(2-Chloroacetyl)glutathione
+C02191	Protoporphyrin
+C20250	(Z)-2-Methylperoxyaminoacrylate
+C16156	Undecaprenyl phosphate alpha-L-Ara4FN
+C15547	1,4-Dihydroxy-2-naphthoyl-CoA
+C05822	3'-CMP
+C03296	N2-Succinyl-L-arginine
+C14852	Benzo[a]pyrene-7,8-diol
+C21029	(R)-3-Ureidoisobutyrate
+C21015	gamma-L-Glutamyl-L-2-aminobutyrate
+C01087	(R)-2-Hydroxyglutarate
+C04431	cis-4-Carboxymethylenebut-2-en-4-olide
+C12214	Aminofructose 6-phosphate
+C05640	Cinnavalininate
+C19975	2-Oxepin-2(3H)-ylideneacetyl-CoA
+C00620	alpha-D-Ribose 1-phosphate
+C05394	3-Keto-beta-D-galactose
+C04824	Lipid X
+C07648	Thioguanine
+C08492	3-Hexenol
+C03765	4-Hydroxyphenylacetaldehyde
+C15699	gamma-L-Glutamylputrescine
+C00231	D-Xylulose 5-phosphate
+C00596	2-Hydroxy-2,4-pentadienoate
+C00655	Xanthosine 5'-phosphate
+C01222	GDP-4-dehydro-6-deoxy-D-mannose
+C04302	N-(5-Phospho-D-ribosyl)anthranilate
+C20904	2-Iminopropanoate
+C14863	2-(S-Glutathionyl)acetyl glutathione
+C19876	alpha-Kdo-(2->8)-[alpha-Kdo-(2->4)]-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA
+C01146	2-Hydroxy-3-oxopropanoate
+C00263	L-Homoserine
+C01268	5-Amino-6-(5'-phosphoribosylamino)uracil
+C00008	ADP
+C19909	N-Acetyl-alpha-neuraminate
+C00117	D-Ribose 5-phosphate
+C01099	L-Fuculose 1-phosphate
+C00048	Glyoxylate
+C00085	D-Fructose 6-phosphate
+C00255	Riboflavin
+C05345	beta-D-Fructose 6-phosphate
+C00186	(S)-Lactate
+C00894	Propenoyl-CoA
+C14800	1-Nitronaphthalene-5,6-oxide
+C00666	LL-2,6-Diaminoheptanedioate
+C00164	Acetoacetate
+C03506	Indoleglycerol phosphate
+C06509	Adenosyl cobinamide phosphate
+C18076	5'-Phosphoguanylyl(3'->5')guanosine
+C05378	beta-D-Fructose 1,6-bisphosphate
+C05686	Adenylylselenate
+C19910	N-Acetyl-beta-neuraminate
+C00341	Geranyl diphosphate
+C16157	Undecaprenyl phosphate alpha-L-Ara4N
+C00167	UDP-glucuronate
+C01103	Orotidine 5'-phosphate
+C00259	L-Arabinose
+C00318	L-Carnitine
+C00360	dAMP
+C14859	Chloroacetyl chloride
+C01412	Butanal
+C00618	3-Dehydro-L-gulonate
+C00018	Pyridoxal phosphate
+C05382	Sedoheptulose 7-phosphate
+C03393	4-Phospho-D-erythronate
+C00583	Propane-1,2-diol
+C07090	Protoanemonin
+C21982	Lipid IVB
+C00156	4-Hydroxybenzoate
+C07335	2-Amino-3-oxo-4-phosphonooxybutyrate
+C00644	D-Mannitol 1-phosphate
+C05519	L-Allothreonine
+C14851	Benzo[a]pyrene-4,5-oxide
+C00144	GMP
+C00363	dTDP
+C18796	(2R)-2-Hydroxy-2-methylbutanenitrile
+C12623	trans-2,3-Dihydroxycinnamate
+C21616	Psicoselysine
+C14874	Glutathione episulfonium ion
+C06510	Adenosine-GDP-cobinamide
+C00327	L-Citrulline
+C01380	Ethylene glycol
+C11376	SN38 glucuronide
+C06612	cis-3-Chloro-2-propene-1-ol
+C04115	4-Carboxy-4-hydroxy-2-oxoadipate
+C01530	Octadecanoic acid
+C04556	4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine
+C00103	D-Glucose 1-phosphate
+C00249	Hexadecanoic acid
+C14802	1-Nitronaphthalene-7,8-oxide
+C00257	D-Gluconic acid
+C14145	(3S)-3-Hydroxyadipyl-CoA
+C00100	Propanoyl-CoA
+C01081	Thiamin monophosphate
+C00546	Methylglyoxal
+C20231	(Z)-3-Ureidoacrylate peracid
+C00214	Thymidine
+C00632	3-Hydroxyanthranilate
+C01168	Pseudouridine 5'-phosphate
+C02218	Dehydroalanine
+C00163	Propanoate
+C03979	2-Dehydro-3-deoxy-L-rhamnonate
+C05668	3-Hydroxypropionyl-CoA
+C00770	L-Idonate
+C06397	ADP-D-glycero-beta-D-manno-heptose
+C00160	Glycolate
+C20958	L-Alanyl-L-glutamate
+C06025	KDO2-lipid IVA
+C00169	Carbamoyl phosphate
+C00447	Sedoheptulose 1,7-bisphosphate
+C11947	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
+C02356	(S)-2-Aminobutanoate
+C00184	Glycerone
+C00364	dTMP
+C05688	L-Selenocysteine
+C21563	2-(Glutathione-S-yl)-hydroquinone
+C00105	UMP
+C00898	(R,R)-Tartaric acid
+C02091	(S)-Ureidoglycine
+C14848	2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene
+C00842	dTDP-glucose
+C20485	(4S)-4-Hydroxy-2-oxoglutarate
+C21007	5,6,7,8-Tetrahydromonapterin
+C16155	UDP-L-Ara4O
+C01100	L-Histidinol phosphate
+C20482	(6R)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide
+C16238	Lipoyl-AMP
+C16596	5-Phenyl-1,3-oxazinane-2,4-dione
+C00906	5,6-Dihydrothymine
+C00794	D-Sorbitol
+C14830	GDP-4-keto-6-L-deoxygalactose
+C04053	5-Dehydro-4-deoxy-D-glucuronate
+C00966	2-Dehydropantoate
+C07490	Trichloroethanol
+C00212	Adenosine
+C00246	Butanoic acid
+C16273	3-Hydroxy-5-oxohexanoyl-CoA
+C00905	D-Fructuronate
+C01674	Chitobiose
+C21094	7,8-Dihydromonapterin 3'-triphosphate
+C07645	Aldophosphamide
+C00136	Butanoyl-CoA
+C00361	dGDP
+C00111	Glycerone phosphate
+C00345	6-Phospho-D-gluconate
+C00568	4-Aminobenzoate
+C00791	Creatinine
+C01962	Thiocysteine
+C12622	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol
+C00189	Ethanolamine
+C00096	GDP-mannose
+C16154	UDP-L-Ara4FN
+C00817	D-Altronate
+C06611	trans-3-Chloro-2-propene-1-ol
+C00636	D-Mannose 1-phosphate
+C05840	Iminoaspartate
+C06007	(R)-2,3-Dihydroxy-3-methylpentanoate
+C00424	(S)-Lactaldehyde
+C01672	Cadaverine
+C00669	gamma-L-Glutamyl-L-cysteine
+C01967	Ubiquinone-9
+C14805	1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene
+C11583	4-Glutathionyl cyclophosphamide
+C03319	dTDP-L-rhamnose
+C05689	Se-Methyl-L-selenocysteine
+C01595	Linoleate
+C04899	(6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate
+C01419	Cys-Gly
+C00555	4-Aminobutyraldehyde
+C12739	5'-Deoxy-5-fluorouridine
+C06505	Cob(I)yrinate a,c diamide
+C03838	5'-Phosphoribosylglycinamide
+C00828	Menaquinone
+C00310	D-Xylulose
+C02713	N-Acetylmuramate
+C16565	Aminopropylcadaverine
+C00979	O-Acetyl-L-serine
+C00133	D-Alanine
+C06426	(6Z,9Z,12Z)-Octadecatrienoic acid
+C00015	UDP
+C03082	4-Phospho-L-aspartate
+C00541	Cob(II)alamin
+C11736	5-Fluorodeoxyuridine
+C04327	4-Methyl-5-(2-phosphooxyethyl)thiazole
+C04121	CMP-3-deoxy-D-manno-octulosonate
+C00208	Maltose
+C12838	trans-4-Carboxymethylenebut-2-en-4-olide
+C02612	(R)-2-Methylmalate
+C04666	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate
+C03221	2-trans-Dodecenoyl-CoA
+C03415	N2-Succinyl-L-ornithine
+C03069	3-Methylcrotonyl-CoA
+C00332	Acetoacetyl-CoA
+C00378	Thiamine
+C03160	2-Succinylbenzoyl-CoA
+C01721	L-Fuculose
+C06425	Icosanoic acid
+C11907	dTDP-4-oxo-6-deoxy-D-glucose
+C11453	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate
+C00519	Hypotaurine
+C16328	trans-2-Enoyl-OPC8-CoA
+C16619	6-Thioguanosine monophosphate
+C00242	Guanine
+C00877	Crotonoyl-CoA
+C00506	L-Cysteate
+C00440	5-Methyltetrahydrofolate
+C20641	L-Threonylcarbamoyladenylate
+C00900	2-Acetolactate
+C19875	alpha-Kdo-(2->8)-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA
+C01269	5-O-(1-Carboxyvinyl)-3-phosphoshikimate
+C04442	2-Dehydro-3-deoxy-6-phospho-D-gluconate
+C05924	Molybdopterin
+C05821	Enterochelin
+C00561	Mandelonitrile
+C00935	UDP-L-arabinose
+C14870	2-Bromoacetaldehyde
+C00984	alpha-D-Galactose
+C01236	D-Glucono-1,5-lactone 6-phosphate
+C00429	5,6-Dihydrouracil
+C00299	Uridine
+C21485	Cytidylyl molybdenum cofactor
+C04114	(E)-4-(Trimethylammonio)but-2-enoate
+C01888	Aminoacetone
+C05279	trans,cis-Lauro-2,6-dienoyl-CoA
+C05966	15(S)-HPETE
+C06156	alpha-D-Glucosamine 1-phosphate
+C02962	D-Allose 6-phosphate
+C09819	(Hydroxymethylphenyl)succinyl-CoA
+C04932	Lipid A disaccharide
+C00209	Oxalate
+C06188	Salicin 6-phosphate
+C00029	UDP-glucose
+C00319	Sphingosine
+C02630	2-Hydroxyglutarate
+C01170	UDP-N-acetyl-D-mannosamine
+C00552	meso-Tartaric acid
+C02709	N-(Acetyloxy)benzenamine
+C01157	Hydroxyproline
+C00468	Estrone
+C16639	beta-D-Ribofuranose
+C05381	3-Carboxy-1-hydroxypropyl-ThPP
+C05993	Acetyl adenylate
+C02944	3-cis-Dodecenoyl-CoA
+C20062	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA
+C06398	ADP-L-glycero-beta-D-manno-heptose
+C00217	D-Glutamate
+C00206	dADP
+C14871	S-(Formylmethyl)glutathione
+C04242	5-Fluorodeoxyuridine monophosphate
+C00603	(S)-Ureidoglycolate
+C04706	cis-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide
+C14089	1-Hydroxymethylnaphthalene
+C03589	4-Hydroxy-2-oxopentanoate
+C16618	6-Thioxanthine 5'-monophosphate
+C03291	L-Xylulose 5-phosphate
+C00993	D-Alanyl-D-alanine
+C05444	3alpha,7alpha,26-Trihydroxy-5beta-cholestane
+C01165	L-Glutamate 5-semialdehyde
+C04650	L-Phosphinothricin
+C04309	Phosphoenol-4-deoxy-3-tetrulosonate
+C03273	5-Oxopentanoate
+C14804	1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene
+C03406	N-(L-Arginino)succinate
+C00885	Isochorismate
+C04332	6,7-Dimethyl-8-(D-ribityl)lumazine
+C00296	Quinate
+C01367	3'-AMP
+C16470	5-Methylhex-4-enoyl-CoA
+C06311	Galactitol 1-phosphate
+C00179	Agmatine
+C00020	AMP
+C03263	Coproporphyrinogen III
+C02909	(2-Naphthyl)methanol
+C19884	Lipid IIA
+C05670	3-Aminopropiononitrile
+C16469	3-Hydroxy-5-methylhex-4-enoyl-CoA
+C00154	Palmitoyl-CoA
+C00275	D-Mannose 6-phosphate

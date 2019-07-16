@@ -1,0 +1,1423 @@
+R12323	lanosterol,reduced ferredoxin:oxygen oxidoreductase (14-methyl cleaving)
+R01001	L-cystathionine cysteine-lyase (deaminating; 2-oxobutanoate-forming)
+R03352	3-Hydroxy-2-methylpropanoyl-CoA hydrolase
+-R03357	1-Palmitoylglycerol-3-phosphate:NADP+ oxidoreductase
+R01268	Nicotinamide amidohydrolase
+R02003	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase
+R05586	R05586
+R04983	R04983
+R04188	L-3-amino-isobutanoate:2-oxoglutarate aminotransferase
+-R04188	L-3-amino-isobutanoate:2-oxoglutarate aminotransferase
+R03632	ATP:protamine O-phosphotransferase
+-R03632	ATP:protamine O-phosphotransferase
+R03635	Stachyose fructohydrolase
+R01857	ATP:dGDP phosphotransferase
+-R01857	ATP:dGDP phosphotransferase
+-R01858	dGTP:pyruvate 2-O-phosphotransferase
+R08539	NADPH:ferricytochrome-b5 oxidoreductase
+-R08539	NADPH:ferricytochrome-b5 oxidoreductase
+R03180	4-Guanidinobutanamide amidohydrolase
+R03182	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase
+-R03182	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase
+R02587	2-Deoxy-D-glucose 6-phosphate phosphohydrolase
+R00725	ITP:D-glucose 6-phosphotransferase
+-R00724	ITP:pyruvate 2-O-phosphotransferase
+R00727	Succinate:CoA ligase (IDP-forming)
+-R00727	Succinate:CoA ligase (IDP-forming)
+R00722	ATP:IDP phosphotransferase
+-R00722	ATP:IDP phosphotransferase
+R05002	GDPmannose:glycolipid 1,3-alpha-D-mannosyltransferase
+-R05002	GDPmannose:glycolipid 1,3-alpha-D-mannosyltransferase
+R00122	ADP phosphohydrolase
+R00836	UDP-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase
+R00129	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide hydro-lyase (ATP-hydrolysing, NADH-forming)
+-R04751	hexanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase
+-R04753	trans-Dec-2-enoyl-CoA reductase
+-R04754	decanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase
+R04756	cis,cis-3,6-Dodecadienoyl-CoA delta3-cis-delta2-trans-isomerase
+-R04756	cis,cis-3,6-Dodecadienoyl-CoA delta3-cis-delta2-trans-isomerase
+R09254	L-tyrosine:pyruvate aminotransferase
+-R09254	L-tyrosine:pyruvate aminotransferase
+R01140	dATP:D-fructose 6-phosphotransferase
+-R00530	ADP:sulfate adenylyltransferase
+-R01061	D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)
+R01067	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase
+-R01067	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase
+R01068	D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)
+-R01068	D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)
+R01281	Palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating)
+-R01281	Palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating)
+R01280	Palmitate:CoA ligase (AMP-forming)
+-R01280	Palmitate:CoA ligase (AMP-forming)
+R02396	Acetyl-CoA:carnitine O-acetyltransferase
+-R02396	Acetyl-CoA:carnitine O-acetyltransferase
+R00897	O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+R00885	GTP:alpha-D-mannose-1-phosphate guanylyltransferase
+-R00885	GTP:alpha-D-mannose-1-phosphate guanylyltransferase
+R05614	R05614
+-R05614	R05614
+R05615	all-trans-octaprenyl-diphosphate:4-hydroxybenzoate 3-octaprenyltransferase
+R00089	ATP diphosphate-lyase (cyclizing; 3',5'-cyclic-AMP-forming)
+-R00089	ATP diphosphate-lyase (cyclizing; 3',5'-cyclic-AMP-forming)
+R00086	ATP phosphohydrolase
+R03471	ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase
+-R03471	ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase
+R03478	ATP:1D-myo-inositol-1,3,4,6-tetrakisphosphate 5-phosphotransferase
+R07509	14-Demethyllanosterol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+-R07509	14-Demethyllanosterol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+R07056	R07056
+R07054	R07054
+R07055	R07055
+R07052	R07052
+R07050	R07050
+R07051	R07051
+-R08558	R08558
+-R08557	R08557
+R02568	D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase
+-R02568	D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase
+R00709	isocitrate:NAD+ oxidoreductase (decarboxylating)
+-R00709	isocitrate:NAD+ oxidoreductase (decarboxylating)
+R00708	(S)-1-pyrroline-5-carboxylate:NADP+ oxidoreductase
+R00707	(S)-1-pyrroline-5-carboxylate:NAD+ oxidoreductase
+R00702	farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase
+-R09220	dienelactone hydrolase
+R04734	4a-hydroxytetrahydrobiopterin hydro-lyase
+-R04734	4a-hydroxytetrahydrobiopterin hydro-lyase
+R04883	3,4-Dihydroxymandelaldehyde:NADP+ oxidoreductase
+R04888	3-Methoxy-4-hydroxyphenylacetaldehyde:NAD+ oxidoreductase
+R04889	3-Methoxy-4-hydroxyphenylacetaldehyde:NADP+ oxidoreductase
+R01547	ATP:dAMP phosphotransferase
+-R01547	ATP:dAMP phosphotransferase
+R01548	dATP:cytidine 5'-phosphotransferase
+-R01548	dATP:cytidine 5'-phosphotransferase
+R01549	dATP:uridine 5'-phosphotransferase
+R00619	ATP:thiamine diphosphotransferase
+-R00619	ATP:thiamine diphosphotransferase
+R01411	5-Methylcytosine aminohydrolase
+R00943	Formate:tetrahydrofolate ligase (ADP-forming)
+-R00943	Formate:tetrahydrofolate ligase (ADP-forming)
+R07022	1-nitronaphthalene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07022	1-nitronaphthalene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R07021	1-nitronaphthalene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07021	1-nitronaphthalene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R11312	R11312
+R11319	ADP:thiamin-diphosphate phosphotransferase
+-R11319	ADP:thiamin-diphosphate phosphotransferase
+R00551	L-Arginine amidinohydrolase
+R01049	ATP:D-ribose-5-phosphate diphosphotransferase
+-R01049	ATP:D-ribose-5-phosphate diphosphotransferase
+-R01041	glycerol:NADP+ oxidoreductase
+R01736	(R)-S-Lactoylglutathione hydrolase
+R01730	Prephenate:NADP+ oxidoreductase(decarboxylating)
+R03394	D-myo-Inositol-1,4,5-trisphosphate 5-phosphohydrolase
+-R05639	4,4-dimethyl-5a-cholesta-8,24-dien-3b-ol:NADP+ D14-oxidoreductase
+R10548	ATP:1D-myo-inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate 5-phosphotransferase
+-R10548	ATP:1D-myo-inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate 5-phosphotransferase
+R07079	Benzpyrene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07079	Benzpyrene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R07070	2,3-dihydro-2-S-glutathionyl-3-hydroxy bromobenzene glutathione-lyase (epoxide-forming)
+-R01899	Isocitrate:NADP+ oxidoreductase
+R01890	CTP:choline-phosphate cytidylyltransferase
+-R01890	CTP:choline-phosphate cytidylyltransferase
+-R01896	xylitol:NAD+ 2-oxidoreductase (D-xylulose-forming)
+R01121	ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP; isopentenyl-diphosphate-forming)
+R10088	D-ribose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase
+R02540	2-phenylacetamide amidohydrolase
+R04230	(R)-4'-phosphopantothenate:L-cysteine ligase (ATP-utilizing)
+R02549	4-aminobutanal:NAD+ 1-oxidoreductase
+R00768	L-glutamine:D-fructose-6-phosphate isomerase (deaminating)
+-R00768	L-glutamine:D-fructose-6-phosphate isomerase (deaminating)
+R00760	ATP:D-fructose 6-phosphotransferase
+-R00760	ATP:D-fructose 6-phosphotransferase
+R00763	beta-D-fructose-2,6-bisphosphate 2-phosphohydrolase
+R00762	D-Fructose-1,6-bisphosphate 1-phosphohydrolase
+R00767	CTP:D-fructose-6-phosphate 1-phosphotransferase
+-R00767	CTP:D-fructose-6-phosphate 1-phosphotransferase
+-R01388	D-Glycerate:NAD+ 2-oxidoreductase
+R03236	ATP:D-tagatose-6-phosphate 1-phosphotransferase
+R03237	CTP:D-tagatose 6-phosphate 1-phosphotransferase
+R03231	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase
+-R03231	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase
+R03238	UTP:D-tagatose 6-phosphate 1-phosphotransferase
+R03239	ITP:D-tagatose 6-phosphate 1-phosphotransferase
+-R04862	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)
+R04711	S-adenosyl-L-methionine:3-hexaprenyl-4,5-dihydroxylate O-methyltransferase
+-R04711	S-adenosyl-L-methionine:3-hexaprenyl-4,5-dihydroxylate O-methyltransferase
+R01560	Adenosine aminohydrolase
+R01561	adenosine:phosphate alpha-D-ribosyltransferase
+-R01561	adenosine:phosphate alpha-D-ribosyltransferase
+R02484	deoxyuridine:orthophosphate 2-deoxy-D-ribosyltransferase
+-R02484	deoxyuridine:orthophosphate 2-deoxy-D-ribosyltransferase
+R04444	L-1-pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase
+-R04444	L-1-pyrroline-3-hydroxy-5-carboxylate:NAD+ oxidoreductase
+R04445	L-1-pyrroline-3-hydroxy-5-carboxylate:NADP+ oxidoreductase
+-R04445	L-1-pyrroline-3-hydroxy-5-carboxylate:NADP+ oxidoreductase
+-R04440	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+R04441	(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase
+R04911	Aryl-formylamine amidohydrolase
+R02940	2-Propyn-1-al:NAD+ oxidoreductase
+R04448	ATP:4-methyl-5-(2-hydroxyethyl)-thiazole 2-phosphotransferase
+R00161	ATP:FMN adenylyltransferase
+-R00161	ATP:FMN adenylyltransferase
+-R11337	(R)-2-hydroxyglutarate:NAD+ 2-oxidireductase
+R00801	sucrose glucohydrolase
+R00802	sucrose alpha-glucohydrolase
+R00578	L-aspartate:L-glutamine amido-ligase (AMP-forming)
+R00575	HCO3-:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)
+R00570	ATP:CDP phosphotransferase
+-R00570	ATP:CDP phosphotransferase
+R00571	UTP:ammonia ligase (ADP-forming)
+-R00571	UTP:ammonia ligase (ADP-forming)
+-R00572	CTP:pyruvate 2-O-phosphotransferase
+R00573	UTP:L-glutamine amido-ligase (ADP-forming)
+R03005	ATP:nicotinamide-nucleotide adenylyltransferase
+R03004	Deamino-NAD+ nucleotidohydrolase
+R01716	chorismate:L-glutamine aminotransferase
+R01715	Chorismate pyruvatemutase
+R01714	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)
+R01711	pyridoxine:oxygen oxidoreductase (deaminating)
+R01710	Pyridoxamine:oxygen oxidoreductase (deaminating)
+R01718	Isomaltose 6-alpha-D-glucanohydrolase
+R02061	trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase
+R06838	4-carboxymethylenebut-2-en-4-olide lactonohydrolase
+-R06838	4-carboxymethylenebut-2-en-4-olide lactonohydrolase
+-R06835	4-carboxymethylenebut-2-en-4-olide lactonohydrolase
+R11100	R11100
+R11104	NADH phosphohydrolase
+R02668	3-Hydroxy-L-kynurenine hydrolase
+R02665	3-Hydroxyanthranilate:oxygen 3,4-oxidoreductase (decyclizing)
+R00299	ATP:D-glucose 6-phosphotransferase
+R00291	UDP-glucose 4-epimerase
+-R00291	UDP-glucose 4-epimerase
+R00742	acetyl-CoA:carbon-dioxide ligase (ADP-forming)
+-R00742	acetyl-CoA:carbon-dioxide ligase (ADP-forming)
+-R00746	Ethanol:NADP+ oxidoreductase
+R02291	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)
+-R02291	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)
+R02297	Xanthosine:orthophosphate ribosyltransferase
+-R02297	Xanthosine:orthophosphate ribosyltransferase
+R02295	Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase
+-R02295	Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase
+R02294	N-Ribosylnicotinamide:orthophosphate ribosyltransferase
+R01071	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase
+-R01071	1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase
+R03217	O-Acetyl-L-homoserine succinate-lyase (adding cysteine)
+R09366	Se-methyl-L-selenocysteine methaneselenol-lyase (deaminating; pyruvate-forming)
+-R09366	Se-methyl-L-selenocysteine methaneselenol-lyase (deaminating; pyruvate-forming)
+R09365	5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase
+-R09365	5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase
+R00100	NADH:ferricytochrome-b5 oxidoreductase
+-R00100	NADH:ferricytochrome-b5 oxidoreductase
+R00104	ATP:NAD+ 2'-phosphotransferase
+-R00104	ATP:NAD+ 2'-phosphotransferase
+R00106	NADPH:ferricytochrome oxidoreductase
+-R00106	NADPH:ferricytochrome oxidoreductase
+R04591	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)
+R02853	D-O-Phosphoserine phosphohydrolase
+R10994	gamma-L-glutamyl-L-2-aminobutyrate:glycine ligase (ADP-forming)
+-R02855	(R)-Acetoin:NAD+ oxidoreductase
+R10992	L-alanine:2-oxobutanoate aminotransferase
+-R10992	L-alanine:2-oxobutanoate aminotransferase
+R03457	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase
+R03024	4-nitrophenyl phosphate phosphohydrolase
+-R03024	4-nitrophenyl phosphate phosphohydrolase
+R06171	L-allo-threonine acetaldehyde-lyase (glycine-forming)
+R01771	ATP:L-homoserine O-phosphotransferase
+-R01773	L-Homoserine:NAD+ oxidoreductase
+-R01775	L-homoserine:NADP+ oxidoreductase
+R01777	Succinyl-CoA:L-homoserine O-succinyltransferase
+R01776	Acetyl-CoA:L-homoserine O-acetyltransferase
+-R00829	succinyl-CoA:acetyl-CoA C-acyltransferase
+-R02082	(R)-Mevalonate:NADP+ oxidoreductase (CoA acylating)
+R05286	Chloroacetaldehyde:NAD+ oxidoreductase
+R04100	3-cis-Dodecenoyl-CoA delta3-cis-delta2-trans-isomerase
+-R04100	3-cis-Dodecenoyl-CoA delta3-cis-delta2-trans-isomerase
+R09087	ATP:1D-myo-inositol-hexakisphosphate 5-phosphotransferase
+-R09087	ATP:1D-myo-inositol-hexakisphosphate 5-phosphotransferase
+R03596	hydrogen selenide:NADP+ oxidoreductase
+-R03596	hydrogen selenide:NADP+ oxidoreductase
+R00137	ATP:nicotinamide-nucleotide adenylyltransferase
+-R00137	ATP:nicotinamide-nucleotide adenylyltransferase
+-R02649	ATP:N-acetyl-L-glutamate 5-phosphotransferase
+R07034	Glutathione: 5-HPETE oxidoreductase
+-R07034	Glutathione: 5-HPETE oxidoreductase
+R07035	Glutathione: 15-HPETE oxidoreductase
+-R07035	Glutathione: 15-HPETE oxidoreductase
+-R02508	R02508
+R01698	Dihydrolipoamide:NAD+ oxidoreductase
+-R01698	Dihydrolipoamide:NAD+ oxidoreductase
+R01528	6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)
+-R01528	6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)
+R01529	D-Ribulose-5-phosphate 3-epimerase
+-R01529	D-Ribulose-5-phosphate 3-epimerase
+R01402	S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase
+-R01402	S-methyl-5'-thioadenosine:phosphate S-methyl-5-thio-alpha-D-ribosyl-transferase
+R05197	10-formyltetrahydropteroyldiglutamate:L-glutamate gamma-ligase (ADP-forming)
+-R05197	10-formyltetrahydropteroyldiglutamate:L-glutamate gamma-ligase (ADP-forming)
+R00127	ATP:AMP phosphotransferase
+-R00127	ATP:AMP phosphotransferase
+R00126	ADP:ATP adenylyltransferase
+-R00126	ADP:ATP adenylyltransferase
+R10463	ATP:L-threonyl,bicarbonate adenylyltransferase
+-R02878	1-Octanol:NAD+ oxidoreductase
+R02872	presqualene-diphosphate diphosphate-lyase (reducing, squalene-forming)
+R07759	3-hydroxyoctadecanoyl-CoA:NADP+ oxidoreductase
+R07758	R07758
+-R07758	R07758
+-R02315	N6-(L-1,3-Dicarboxypropyl)-L-lysine:NADP+ oxidoreductase
+R01752	D-Glyceraldehyde:NAD+ oxidoreductase
+R03869	(S)-Methylmalonate semialdehyde:NAD+ oxidoreductase
+R04673	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)
+-R04673	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)
+R00259	acetyl-CoA:L-glutamate N-acetyltransferase
+R00258	L-Alanine:2-oxoglutarate aminotransferase
+-R00258	L-Alanine:2-oxoglutarate aminotransferase
+R00257	Deamido-NAD+:L-glutamine amido-ligase (AMP-forming)
+R00256	L-glutamine amidohydrolase
+R00251	5-oxo-L-proline amidohydrolase (ATP-hydrolysing)
+R00253	L-Glutamate:ammonia ligase (ADP-forming)
+-R00253	L-Glutamate:ammonia ligase (ADP-forming)
+R00782	L-cysteine hydrogen-sulfide-lyase (deaminating; pyruvate-forming)
+R07945	R07945
+R06366	Aldehyde:NAD+ oxidoreductase
+R01326	ATP:D-mannose 6-phosphotransferase
+R01327	ITP:D-mannose 6-phosphotransferase
+R01324	citrate hydroxymutase
+-R01324	citrate hydroxymutase
+R01325	citrate hydro-lyase (cis-aconitate-forming)
+-R01325	citrate hydro-lyase (cis-aconitate-forming)
+R07943	R07943
+R02124	retinol:NAD+ oxidoreductase
+-R02124	retinol:NAD+ oxidoreductase
+-R04805	R04805
+R00105	ATP:NADH 2'-phosphotransferase
+-R00105	ATP:NADH 2'-phosphotransferase
+R03067	(7,8-dihydropterin-6-yl)methyl diphosphate:4-aminobenzoate 2-amino-4-hydroxy-7,8-dihydropteridine-6-methenyltransferase
+R03066	6-(hydroxymethyl)-7,8-dihydropterin:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase
+-R03066	6-(hydroxymethyl)-7,8-dihydropterin:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase
+R02331	ATP:dUDP phosphotransferase
+-R02331	ATP:dUDP phosphotransferase
+R02332	dUTP:uridine 5'-phosphotransferase
+R08310	4-hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one:NAD+ oxidoreductase
+R00025	ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)
+-R00025	ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)
+R00868	D-Mannitol:NAD+ 2-oxidoreductase
+-R00868	D-Mannitol:NAD+ 2-oxidoreductase
+R04144	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)
+R05764	S-adenosyl-L-methionine:(E)-prop-1-ene-1,2,3-tricarboxylate 3'-O-methyltransferase
+R00277	Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)
+R00274	glutathione:hydrogen-peroxide oxidoreductase
+R00271	acetyl-CoA:2-oxoglutarate C-acetyltransferase (thioester-hydrolysing, carboxymethyl forming)
+R00278	Pyridoxine 5-phosphate:oxygen oxidoreductase
+R07093	chloroacetyl-chloride:glutathione S-chloroacetyltransferase
+-R07093	chloroacetyl-chloride:glutathione S-chloroacetyltransferase
+R00711	Acetaldehyde:NADP+ oxidoreductase
+R01909	ATP:pyridoxine 5'-phosphotransferase
+-R01909	ATP:pyridoxine 5'-phosphotransferase
+R01658	Dimethylallyl-diphosphate:isopentenyl-diphosphate dimethylallyltranstransferase
+R01655	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)
+-R01655	5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)
+-R01652	R01652
+R08178	R08178
+-R07091	S-(2,2-dichloro-1-hydroxy)ethyl-glutathione 2,2-dichloroacetaldehyde-lyase (glutathione-forming)
+R02109	Dextrin 6-alpha-D-glucanohydrolase
+-R02109	Dextrin 6-alpha-D-glucanohydrolase
+R02101	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase
+R02100	dUTP nucleotidohydrolase
+R04682	Estriol:NADP+ 17-oxidoreductase
+-R04682	Estriol:NADP+ 17-oxidoreductase
+R04681	Estriol:NAD+ 17-oxidoreductase
+-R04681	Estriol:NAD+ 17-oxidoreductase
+R04424	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate hydro-lyase [(Z)-but-2-ene-1,2,3-tricarboxylate-forming]
+-R04424	(2S,3S)-2-hydroxybutane-1,2,3-tricarboxylate hydro-lyase [(Z)-but-2-ene-1,2,3-tricarboxylate-forming]
+R01986	4-Aminobutyraldehyde:NAD+ oxidoreductase
+R02740	alpha-D-Glucose 6-phosphate ketol-isomerase
+-R02740	alpha-D-Glucose 6-phosphate ketol-isomerase
+R02748	Deoxyinosine:orthophosphate ribosyltransferase
+-R02748	Deoxyinosine:orthophosphate ribosyltransferase
+R00428	GTP 8,9-hydrolase
+-R00428	GTP 8,9-hydrolase
+R00424	GTP 7,8-8,9-dihydrolase
+R00425	GTP 7,8-8,9-dihydrolase (diphosphate-forming)
+R02352	Estradiol-17beta:NAD+ 17-oxidoreductase
+-R02352	Estradiol-17beta:NAD+ 17-oxidoreductase
+R02353	Estradiol-17beta:NADP+ 17-oxidoreductase
+-R02353	Estradiol-17beta:NADP+ 17-oxidoreductase
+R02356	R02356
+R02354	R02354
+R02355	R02355
+R01466	O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)
+R01468	ATP:ethanolamine O-phosphotransferase
+R00848	sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase
+-R00848	sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase
+R00847	ATP:glycerol 3-phosphotransferase
+-R00847	ATP:glycerol 3-phosphotransferase
+R00841	sn-glycerol-3-phosphate phosphohydrolase
+-R00842	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase
+-R04742	Decanoyl-CoA:acetyl-CoA C-acyltransferase
+-R09796	(R)-lactate hydro-lyase
+-R04378	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide:pyrophosphate phosphoribosyltransferase
+R04371	Homoisocitrate hydro-lyase
+-R04371	Homoisocitrate hydro-lyase
+R11180	pseudouridine-5'-phosphate phosphohydrolase
+R00214	(S)-malate:NAD+ oxidoreductase (decarboxylating)
+-R00214	(S)-malate:NAD+ oxidoreductase (decarboxylating)
+R00217	oxaloacetate carboxy-lyase (pyruvate-forming)
+R06520	3-sn-phosphatidate phosphohydrolase
+R01920	S-adenosylmethioninamine:putrescine 3-aminopropyltransferase
+-R01920	S-adenosylmethioninamine:putrescine 3-aminopropyltransferase
+R01926	ATP:sphingosine 1-phosphotransferase
+-R01926	ATP:sphingosine 1-phosphotransferase
+R01676	Guanine aminohydrolase
+R07456	D-ribulose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase
+-R03291	trans-4-Hydroxy-L-proline:NAD+ 5-oxidoreductase
+-R03293	trans-4-Hydroxy-L-proline:NADP+ 5-oxidoreductase
+R00268	oxalosuccinate carboxy-lyase (2-oxoglutarate-forming)
+R00269	2-oxoglutaramate amidohydrolase
+R00988	N-Formylanthranilate amidohydrolase
+R00985	chorismate pyruvate-lyase (amino-accepting; anthranilate-forming)
+R00987	L-Kynurenine hydrolase
+R00986	Chorismate pyruvate-lyase (amino-accepting)
+R00084	porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing)
+R00085	ATP diphosphohydrolase (phosphate-forming)
+R00181	AMP aminohydrolase
+R00185	ATP:adenosine 5'-phosphotransferase
+-R00185	ATP:adenosine 5'-phosphotransferase
+R00187	P1,P3-bis(5'-adenosyl)-triphosphate adenylohydrolase
+-R00187	P1,P3-bis(5'-adenosyl)-triphosphate adenylohydrolase
+R00189	deamido-NAD+:ammonia ligase (AMP-forming)
+-R00189	deamido-NAD+:ammonia ligase (AMP-forming)
+-R06917	1-hydroxymethylnaphthalene:NAD+ oxidoreductase
+-R03989	trans-Tetradec-2-enoyl-CoA reductase
+R07770	R07770
+R08270	R08270
+R08181	R08181
+R08180	R08180
+R08183	R08183
+R08182	R08182
+-R05641	ergosterol:NADP+ Delta24(24(1))-oxidoreductase
+R00405	Succinate:CoA ligase (ADP-forming)
+-R00405	Succinate:CoA ligase (ADP-forming)
+R08232	ATP:5-fluorouridine 5'-phosphotransferase
+-R08232	ATP:5-fluorouridine 5'-phosphotransferase
+R08231	5-fluorouridine monophosphate:diphosphate phospho-alpha-D-ribosyl-transferase
+R08237	6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase
+-R08237	6-thioinosine 5'-monophosphate:diphosphate phospho-D-ribosyltransferase
+R08238	6-methylthiopurine 5'-monophosphate ribonucleotide:diphosphate phospho-D-ribosyltransferase
+R02371	dCTP:cytidine 5'-phosphotransferase
+R02372	dUTP:cytidine 5'-phosphotransferase
+-R02372	dUTP:cytidine 5'-phosphotransferase
+R11891	ATP:5-fluorouridine-monophosphate phosphotransferase
+-R11891	ATP:5-fluorouridine-monophosphate phosphotransferase
+R11892	ATP:5-fluorodeoxyuridine-monophosphate phosphotransferase
+-R11892	ATP:5-fluorodeoxyuridine-monophosphate phosphotransferase
+R11895	ATP:5-fluorodeoxyuridine-diphosphate phosphotransferase
+-R11895	ATP:5-fluorodeoxyuridine-diphosphate phosphotransferase
+R11896	5-fluorodeoxyuridine-triphosphate diphosphohydrolase
+-R11896	5-fluorodeoxyuridine-triphosphate diphosphohydrolase
+R00965	orotidine-5'-phosphate carboxy-lyase (UMP-forming)
+R00961	IDP phosphohydrolase
+-R00961	IDP phosphohydrolase
+R05724	nitric oxide, NAD(P)H2:oxygen oxidoreductase
+R05725	nitric oxide, NADPH2:oxygen oxidoreductase
+R02971	ATP:pantothenate 4'-phosphotransferase
+R02976	ATP:sphinganine 1-phosphotransferase
+-R02976	ATP:sphinganine 1-phosphotransferase
+-R02978	Sphinganine:NADP+ 3-oxidoreductase
+R03920	ATP:D-fructose 6-phosphotransferase
+-R03920	ATP:D-fructose 6-phosphotransferase
+R00130	ATP:dephospho-CoA 3'-phosphotransferase
+-R00130	ATP:dephospho-CoA 3'-phosphotransferase
+-R00239	ATP:L-glutamate 5-phosphotransferase
+-R00238	acetyl-CoA:acetyl-CoA C-acetyltransferase
+R00236	acetyl adenylate:CoA acetyltransferase
+R00235	Acetate:CoA ligase (AMP-forming)
+-R00235	Acetate:CoA ligase (AMP-forming)
+R07477	spermidine:NAD+ oxidoreductase
+R07505	episterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+-R07505	episterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+R07506	ergosta-5,7,24(28)-trien-3beta-ol,NADPH:oxygen oxidoreductase (22,23-dehydrogenating)
+R01618	APS:ATP adenylyltransferase
+-R02497	dihydrotestosterone:NADP+ delta4-oxidoreductase
+-R02142	XMP:pyrophosphate phosphoribosyltransferase
+R02147	guanosine:phosphate alpha-D-ribosyltransferase
+-R02147	guanosine:phosphate alpha-D-ribosyltransferase
+R02144	S-adenosyl-L-methionine:carnosine N-methyltransferase
+R03968	2-Isopropylmalate hydro-lyase
+-R03968	2-Isopropylmalate hydro-lyase
+R04640	N-(5'-phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase
+-R04640	N-(5'-phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase
+R10170	(2R,3S)-3-isopropylmalate hydro-lyase (2-isopropylmaleate-forming)
+-R10170	(2R,3S)-3-isopropylmalate hydro-lyase (2-isopropylmaleate-forming)
+R11225	dimethylallyl-phosphate:FMNH2 prenyltransferase
+R04391	ATP:pantothenate 4'-phosphotransferase
+R02700	5-Hydroxy-L-tryptophan:2-oxoglutarate aminotransferase
+-R02700	5-Hydroxy-L-tryptophan:2-oxoglutarate aminotransferase
+R02702	5-hydroxy-L-tryptophan:oxygen 2,3-dioxygenase (indole-decyclizing)
+R04420	5-methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase
+-R04420	5-methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase
+R07281	D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)
+-R03158	R03158
+R01137	ATP:dADP phosphotransferase
+-R01137	ATP:dADP phosphotransferase
+R01135	IMP:L-aspartate ligase (GDP-forming)
+-R01135	IMP:L-aspartate ligase (GDP-forming)
+-R01132	IMP:diphosphate phospho-D-ribosyltransferase
+-R01130	IMP:NAD+ oxidoreductase
+R01139	dATP:D-glucose 6-phosphotransferase
+-R01138	dATP:pyruvate 2-O-phosphotransferase
+R00036	5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming)
+R07100	trichloroethene:glutathione S-(1,2-dichlorovinyl)transferase
+-R07100	trichloroethene:glutathione S-(1,2-dichlorovinyl)transferase
+R10092	carbonate hydro-lyase (carbon-dioxide-forming)
+-R10092	carbonate hydro-lyase (carbon-dioxide-forming)
+R07274	O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase
+R07273	solanesyl-diphosphate:4-hydroxybenzoate nonaprenyltransferase
+-R07273	solanesyl-diphosphate:4-hydroxybenzoate nonaprenyltransferase
+R02957	D-Glucuronolactone:NAD+ oxidoreductase
+R02952	phenylacrylic acid decarboxylase
+R09136	2,3,5-trichlorodienelactone lactonohydrolase
+-R04639	2-amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl) dihydropteridine triphosphate hydrolase
+R01964	ITP:D-glucosamine 6-phosphotransferase
+-R01964	ITP:D-glucosamine 6-phosphotransferase
+R01965	dATP:D-glucosamine 6-phosphotransferase
+-R01965	dATP:D-glucosamine 6-phosphotransferase
+R01960	L-Kynurenine,NADPH:oxygen oxidoreductase (3-hydroxylating)
+R01961	ATP:D-glucosamine 6-phosphotransferase
+-R01961	ATP:D-glucosamine 6-phosphotransferase
+-R01969	Deoxyguanosine:orthophosphate ribosyltransferase
+R07494	R07494
+R07495	4alpha-methylzymosterol:NADP+ 3-oxidoreductase
+-R07495	4alpha-methylzymosterol:NADP+ 3-oxidoreductase
+R07491	episterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+-R07491	episterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+R01056	D-ribose-5-phosphate aldose-ketose-isomerase
+-R01056	D-ribose-5-phosphate aldose-ketose-isomerase
+R01057	D-Ribose 1,5-phosphomutase
+-R01057	D-Ribose 1,5-phosphomutase
+R01051	ATP:D-ribose 5-phosphotransferase
+R01639	ATP:D-xylulose 5-phosphotransferase
+R00945	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase
+-R00945	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase
+R07023	1-nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)
+-R07023	1-nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)
+R01090	L-Leucine:2-oxoglutarate aminotransferase
+-R01090	L-Leucine:2-oxoglutarate aminotransferase
+R01092	ATP:alpha-D-galactose 1-phosphotransferase
+-R01092	ATP:alpha-D-galactose 1-phosphotransferase
+R03947	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+-R03947	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+R08294	R08294
+R07026	1-nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)
+-R07026	1-nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)
+R07025	1-nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)
+-R07025	1-nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene glutathione-lyase (epoxide-forming)
+R07024	1-nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)
+-R07024	1-nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene glutathione-lyase (epoxide-forming)
+R02722	L-serine hydro-lyase [adding 1-C-(indol-3-yl)glycerol 3-phosphate; L-tryptophan and glyceraldehyde-3-phosphate-forming]
+R00372	Glycine:2-oxoglutarate aminotransferase
+-R00372	Glycine:2-oxoglutarate aminotransferase
+R08146	farnesal:NAD+ oxidoreductase
+-R07045	R07045
+-R07044	R07044
+R01158	L-histidinol:NAD+ oxidoreductase
+-R01158	L-histidinol:NAD+ oxidoreductase
+R07043	R07043
+-R07043	R07043
+R07042	R07042
+-R07042	R07042
+-R04880	3,4-dihydroxyphenylethyleneglycol:NAD+ oxidoreductase
+R04882	3,4-Dihydroxymandelaldehyde:NAD+ oxidoreductase
+R02260	(S)-lactaldehyde:NADP+ oxidoreductase
+-R02260	(S)-lactaldehyde:NADP+ oxidoreductase
+R10520	D-glucose-6-phosphate:NAD+ 1-oxidoreductase
+-R10520	D-glucose-6-phosphate:NAD+ 1-oxidoreductase
+R00894	L-glutamate:L-cysteine gamma-ligase (ADP-forming)
+R00891	L-serine hydro-lyase (adding hydrogen sulfide, L-cysteine-forming)
+-R00891	L-serine hydro-lyase (adding hydrogen sulfide, L-cysteine-forming)
+R11071	ferulate carboxy-lyase
+R11070	trans-cinnamate carboxy-lyase
+R05616	all-trans-hexaprenyl diphosphate:4-hydroxybenzoate hexaprenyltransferase
+R02464	Sphinganine-1-phosphate pamlmitaldehyde-lyase
+-R00094	glutathione:NAD+ oxidoreductase
+R00585	L-Serine:pyruvate aminotransferase
+-R00585	L-Serine:pyruvate aminotransferase
+R00582	O-phospho-L-serine phosphohydrolase
+R00588	L-Serine:glyoxylate aminotransferase
+-R00588	L-Serine:glyoxylate aminotransferase
+R06525	sphinganine,ferrocytochrome b5:oxygen oxidoreductase (C4-hydroxylating)
+-R06525	sphinganine,ferrocytochrome b5:oxygen oxidoreductase (C4-hydroxylating)
+R06521	3-sn-phosphatidate phosphohydrolase
+R07324	1D-myo-inositol-3-phosphate lyase (isomerizing)
+R00967	UTP:uridine 5'-phosphotransferase
+-R00967	UTP:uridine 5'-phosphotransferase
+R00966	UMP:diphosphate phospho-alpha-D-ribosyltransferase
+-R00966	UMP:diphosphate phospho-alpha-D-ribosyltransferase
+R00964	ATP:uridine 5'-phosphotransferase
+R00962	ITP:cytidine 5'-phosphotransferase
+-R00962	ITP:cytidine 5'-phosphotransferase
+R00968	GTP:uridine 5'-phosphotransferase
+-R00968	GTP:uridine 5'-phosphotransferase
+R01216	2-dehydropantoate formaldehyde-lyase (3-methyl-2-oxobutanoate-forming)
+-R01216	2-dehydropantoate formaldehyde-lyase (3-methyl-2-oxobutanoate-forming)
+R01214	L-Valine:2-oxoglutarate aminotransferase
+-R01214	L-Valine:2-oxoglutarate aminotransferase
+-R01213	acetyl-CoA:3-methyl-2-oxobutanoate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)
+R01218	5,10-methylenetetrahydrofolate:NAD+ oxidoreductase
+-R01218	5,10-methylenetetrahydrofolate:NAD+ oxidoreductase
+R04930	Selenocystathionine Lysteine-lyase (deaminating)
+-R04930	Selenocystathionine Lysteine-lyase (deaminating)
+R04936	Se-Adenosylselenohomocysteine hydrolase
+-R04936	Se-Adenosylselenohomocysteine hydrolase
+-R05511	R05511
+R05510	Protoanemonin lactonohydrolase
+-R05510	Protoanemonin lactonohydrolase
+-R00351	acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing)
+R00355	L-Aspartate:2-oxoglutarate aminotransferase
+-R00355	L-Aspartate:2-oxoglutarate aminotransferase
+R10046	nicotinate D-ribonucleoside ribohydrolase
+-R01177	butanoyl-CoA:acetyl-CoA C-butanoyltransferase
+-R01175	butanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase
+R05070	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase
+R05071	(S)-2-Acetolactate methylmutase
+-R05071	(S)-2-Acetolactate methylmutase
+R02245	ATP:(R)-mevalonate 5-phosphotransferase
+-R02245	ATP:(R)-mevalonate 5-phosphotransferase
+R03936	Formylkynurenine hydrolase
+R10057	4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+-R10057	4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+R01900	isocitrate hydro-lyase (cis-aconitate-forming)
+-R01900	isocitrate hydro-lyase (cis-aconitate-forming)
+R10052	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase
+-R10052	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase
+R11679	(S)-2-amino-6-oxohexanoate:NADP+ oxidoreductase (ATP-forming)
+-R11679	(S)-2-amino-6-oxohexanoate:NADP+ oxidoreductase (ATP-forming)
+R04035	Phosphoribosyl-ATP pyrophosphohydrolase
+-R04035	Phosphoribosyl-ATP pyrophosphohydrolase
+R04037	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase
+-R04037	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase
+R01654	10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming)
+R07048	R07048
+R02473	(R)-Pantoate:beta-alanine ligase (AMP-forming)
+-R02472	(R)-Pantoate:NADP+ 2-oxidoreductase
+-R00659	UTP:pyruvate 2-O-phosphotransferase
+R00658	2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)
+-R00658	2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)
+R00651	O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase
+-R00900	L-cysteine,glutathione:NADP+ oxidoreductase (disulfide-forming)
+R03302	3,4-Dihydroxyphenylacetaldehyde:NADP+ oxidoreductase
+R03300	3,4-Dihydroxyphenylacetaldehyde:NAD+ oxidoreductase
+R00908	beta-alanine:2-oxoglutarate aminotransferase
+-R00908	beta-alanine:2-oxoglutarate aminotransferase
+R09416	R09416
+-R09416	R09416
+R04620	7,8-dihydroneopterin-3'-triphosphate phosphohydrolase (alkaline optimum)
+R03903	acetyl-CoA:D-amino-acid N-acetyltransferase
+R01230	Xanthosine-5'-phosphate:ammonia ligase (AMP-forming)
+R01231	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)
+R01234	Guanosine 3',5'-cyclic phosphate 5'-nucleotidohydrolase
+R00010	alpha,alpha-trehalose glucohydrolase
+R00332	ATP:GMP phosphotransferase
+-R00332	ATP:GMP phosphotransferase
+R00330	ATP:GDP phosphotransferase
+-R00330	ATP:GDP phosphotransferase
+R00335	GTP phosphohydrolase
+R00489	L-aspartate 1-carboxy-lyase (beta-alanine-forming)
+R00485	L-asparagine amidohydrolase
+-R00480	ATP:L-aspartate 4-phosphotransferase
+R00483	L-aspartate:ammonia ligase (AMP-forming)
+-R00940	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase
+R01827	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase
+-R01827	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase
+R01826	Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)
+R01829	sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+-R01829	sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+R00942	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)
+-R00006	pyruvate:pyruvate acetaldehydetransferase (decarboxylating)
+R05050	N4-Acetylaminobutanal:NAD+ oxidoreductase
+-R05051	L-erythro-4-Hydroxyglutamate:NAD+ oxidoreductase
+R05052	L-erythro-4-hydroxyglutamate:2-oxoglutarate aminotransferase
+-R05052	L-erythro-4-hydroxyglutamate:2-oxoglutarate aminotransferase
+R02222	steroyl-CoA,hydrogen-donor:oxygen oxidoreductase
+-R02222	steroyl-CoA,hydrogen-donor:oxygen oxidoreductase
+R05237	R05237
+-R05231	6-Hydroxyhexanoate:NADP+ oxidoreductase
+R05238	R05238
+R08945	11beta,17beta-dihydroxy-4-androsten-3-one:NAD+ 17-oxidoreductase
+-R08945	11beta,17beta-dihydroxy-4-androsten-3-one:NAD+ 17-oxidoreductase
+R05800	ATP:1D-myo-inositol-1,4,5-trisphosphate 6-phosphotransferase
+R11659	2-(glutathione-S-yl)-hydroquinone:glutathione oxidoreductase
+-R11659	2-(glutathione-S-yl)-hydroquinone:glutathione oxidoreductase
+R00778	urea hydro-lyase (cyanamide-forming)
+-R00774	Urea:carbon-dioxide ligase (ADP-forming)
+-R07168	5-methyltetrahydrofolate:NAD+ oxidoreductase
+R01737	ATP:D-Gluconate 6-phosphotransferase
+-R01737	ATP:D-Gluconate 6-phosphotransferase
+R02410	Raffinose fructohydrolase
+R02413	Shikimate:NADP+ 3-oxidoreductase
+-R02413	Shikimate:NADP+ 3-oxidoreductase
+R02412	ATP:shikimate 3-phosphotransferase
+R00670	L-ornithine carboxy-lyase (putrescine-forming)
+R00904	3-aminopropanal:NAD+ oxidoreductase
+R00678	L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)
+R03096	Indole-3-acetamide amidohydrolase
+R03090	R03090
+R03098	L-2-aminoadipate-6-semialdehyde:NADP+ 6-oxidoreductase
+R07362	D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)
+R07104	Chloral:NAD(P)+ oxidoreductase
+-R07104	Chloral:NAD(P)+ oxidoreductase
+R07105	trichloroethanol:NAD+ oxidoreductase
+-R07105	trichloroethanol:NAD+ oxidoreductase
+R01786	ATP:alpha-D-glucose 6-phosphotransferase
+-R01786	ATP:alpha-D-glucose 6-phosphotransferase
+-R01039	glycerol:NADP+ 2-oxidoreductase (glycerone-forming)
+R01030	sn-Glycero-3-phosphocholine glycerophosphohydrolase
+R03321	beta-D-Glucose 6-phosphate ketol-isomerase
+-R03321	beta-D-Glucose 6-phosphate ketol-isomerase
+-R00927	acetyl-CoA:propanoyl-CoA 2-C-acetyltransferase
+R00926	Propionyladenylate:CoA propionyltransferase
+R00925	Propanoate:CoA ligase (AMP-forming)
+-R00925	Propanoate:CoA ligase (AMP-forming)
+-R01251	L-Proline:NADP+ 5-oxidoreductase
+-R10242	5alpha-androstane-3,17-dione:NADP+ delta4-oxidoreductase
+R10712	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate 2-methyl-4-aminopyrimidine-5-methenyltransferase
+R00078	Fe(II):oxygen oxidoreductase
+-R05551	R05551
+R04972	Uroporphyrinogen I carboxy-lyase
+R00316	ATP:acetate adenylyltransferase
+R00310	protoheme ferro-lyase (protoporphyrin-forming)
+-R00310	protoheme ferro-lyase (protoporphyrin-forming)
+R08121	4-fluoromuconolactone lactonohydrolase
+-R08121	4-fluoromuconolactone lactonohydrolase
+R08120	5-fluoromuconolactone lactonohydrolase
+-R08120	5-fluoromuconolactone lactonohydrolase
+R01665	ATP:dCMP phosphotransferase
+-R01665	ATP:dCMP phosphotransferase
+R04206	3-Phospho-D-erythronate hydro-lyase
+-R04206	3-Phospho-D-erythronate hydro-lyase
+R04208	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)
+-R04208	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)
+-R04426	(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase
+R04427	S-Adenosyl-L-methionine:zymosterol C-methyltransferase
+-R04427	S-Adenosyl-L-methionine:zymosterol C-methyltransferase
+R04358	ATP:[DNA-directed RNA polymerase] phosphotransferase
+-R04358	ATP:[DNA-directed RNA polymerase] phosphotransferase
+-R02208	5alpha-pregnane-3,20-dione:NADP+ delta4-oxidoreductase
+R07363	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate- and CO-forming)
+R07364	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate-forming)
+R04780	beta-D-Fructose 1,6-bisphosphate 1-phosphohydrolase
+-R07891	R07891
+R04560	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase
+-R04560	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase
+-R07896	R07896
+R00896	L-cysteine:2-oxoglutarate aminotransferase
+R10907	beta-D-glucose-6-phosphate:NAD+ 1-oxidoreductase
+-R10907	beta-D-glucose-6-phosphate:NAD+ 1-oxidoreductase
+R07149	3beta-hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carboxylate:NADP+ 3-oxidoreductase (decarboxylating)
+R07145	L-iditol:NAD+ 2-oxidoreductase
+-R07145	L-iditol:NAD+ 2-oxidoreductase
+R07140	S-(hydroxymethyl)glutathione:NADP+ oxidoreductase
+R02433	L-cysteate:2-oxoglutarate aminotransferase
+-R02433	L-cysteate:2-oxoglutarate aminotransferase
+R00895	L-Cysteine:2-oxoglutarate aminotransferase
+R00694	L-Phenylalanine:2-oxoglutarate aminotransferase
+-R00694	L-Phenylalanine:2-oxoglutarate aminotransferase
+R00691	L-arogenate hydro-lyase (decarboxylating; L-phenylalanine-forming)
+R00692	L-phenylalanine:pyruvate aminotransferase
+-R00692	L-phenylalanine:pyruvate aminotransferase
+R01010	Glycerone phosphate phosphohydrolase
+R01011	ATP:glycerone phosphotransferase
+-R01011	ATP:glycerone phosphotransferase
+R01015	D-glyceraldehyde-3-phosphate aldose-ketose-isomerase
+-R01015	D-glyceraldehyde-3-phosphate aldose-ketose-isomerase
+-R03348	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)
+R03347	ATP:beta-D-ribosylnicotinate 5-phosphotransferase
+-R03347	ATP:beta-D-ribosylnicotinate 5-phosphotransferase
+R01274	palmitoyl-CoA hydrolase
+R01273	N-ribosylnicotinamide ribohydrolase
+-R01278	hexadecanoyl-CoA:NADP+ trans-2-oxidoreductase
+-R01279	palmitoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase
+R10221	6-phospho-D-gluconate:NAD+ 2-oxidoreductase (decarboxylating)
+-R10221	6-phospho-D-gluconate:NAD+ 2-oxidoreductase (decarboxylating)
+R04996	3-Methylimidazole acetaldehyde:NAD+ oxidoreductase
+R04990	UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase
+R03508	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)
+R07081	Benzpyrene,NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07081	Benzpyrene,NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R00174	ATP:pyridoxal 5'-phosphotransferase
+-R00174	ATP:pyridoxal 5'-phosphotransferase
+R07083	4,5-dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene glutathione-lyase (epoxide-forming)
+-R07083	4,5-dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene glutathione-lyase (epoxide-forming)
+R07085	benzo[a]pyrene-7,8-diol, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07085	benzo[a]pyrene-7,8-diol, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R07084	7,8-dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene hydrolase
+-R07084	7,8-dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene hydrolase
+R07087	9-hydroxybenzo[a]pyrene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07087	9-hydroxybenzo[a]pyrene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R01863	inosine:phosphate alpha-D-ribosyltransferase
+-R01863	inosine:phosphate alpha-D-ribosyltransferase
+R01867	(S)-dihydroorotate:fumarate oxidoreductase
+-R07888	R07888
+R02590	CTP:choline-phosphate cytidylyltransferase
+-R02590	CTP:choline-phosphate cytidylyltransferase
+R00734	L-tyrosine:2-oxoglutarate aminotransferase
+-R00734	L-tyrosine:2-oxoglutarate aminotransferase
+R09418	R09418
+-R01481	L-gulonate:NADP+ 6-oxidoreductase
+R01936	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)
+-R09222	dienelactone hydrolase
+R04509	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase
+-R04509	ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase
+R04501	4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+-R04501	4,4-dimethyl-5alpha-cholest-7-en-3beta-ol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+R04502	GDPmannose:chitobiosyldiphosphodolichol beta-D-mannosyltransferase
+-R04502	GDPmannose:chitobiosyldiphosphodolichol beta-D-mannosyltransferase
+R04506	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al:NAD+ oxidoreductase
+R00509	ATP:adenylylsulfate 3'-phosphotransferase
+-R00509	ATP:adenylylsulfate 3'-phosphotransferase
+R00508	3'-phospho-5'-adenylyl sulfate 3'-phosphohydrolase
+-R01072	5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)
+-R01073	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase
+R01070	beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)
+-R01070	beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)
+R04483	3beta-hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carboxylate:NAD+ 3-oxidoreductase (decarboxylating)
+R01074	biotin:CoA ligase (AMP-forming)
+R09076	spermidine:oxygen oxidoreductase (spermidine-forming)
+R09077	spermidine:oxygen oxidoreductase (3-aminopropanal-forming)
+R09074	N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming)
+R06861	D-xylulose-5-phosphate:thiamin diphosphate glycolaldehydetransferase
+-R06861	D-xylulose-5-phosphate:thiamin diphosphate glycolaldehydetransferase
+R06863	D-sedoheptulose-7-phosphate:thiamin diphosphate glycolaldehydetransferase
+-R06863	D-sedoheptulose-7-phosphate:thiamin diphosphate glycolaldehydetransferase
+R04247	CTP:ethanolamine-phosphate cytidylyltransferase
+-R04247	CTP:ethanolamine-phosphate cytidylyltransferase
+R03628	melatonin:oxygen 2,3-dioxygenase (indole-decyclizing)
+R01843	ATP:Sedoheptulose 7-phosphate 1-phosphotransferase
+-R01843	ATP:Sedoheptulose 7-phosphate 1-phosphotransferase
+R01845	Sedoheptulose 1,7-bisphosphate 1-phosphohydrolase
+R03199	(S)-2,3-Epoxysqualene mutase (cyclizing, lanosterol-forming)
+R03197	Uroporphyrinogen-III carboxy-lyase
+R03194	S-adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+R00710	Acetaldehyde:NAD+ oxidoreductase
+R00713	succinate-semialdehyde:NAD+ oxidoreductase
+R00714	succinate-semialdehyde:NADP+ oxidoreductase
+-R00715	N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase (L-lysine-forming)
+-R00717	Glycolate:NAD+ oxidoreductase
+R00719	ITP phosphohydrolase
+R00014	pyruvate:thiamin diphosphate acetaldehydetransferase (decarboxylating)
+R00996	L-threonine ammonia-lyase (2-oxobutanoate-forming)
+-R00994	(2R,3S)-3-methylmalate:NAD+ oxidoreductase
+-R00190	AMP:diphosphate phospho-D-ribosyltransferase
+R00191	adenosine 3',5'-phosphate 5'-nucleotidohydrolase
+-R04747	Hexanoyl-CoA:acetyl-CoA C-acyltransferase
+R09245	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 3 isopentenyl units)
+R00156	ATP:UDP phosphotransferase
+-R00156	ATP:UDP phosphotransferase
+R00155	UDP phosphohydrolase
+R00158	ATP:UMP phosphotransferase
+-R00158	ATP:UMP phosphotransferase
+R00159	UTP phosphohydrolase
+R10948	ATP:HCO3- phosphotransferase
+-R10948	ATP:HCO3- phosphotransferase
+R11097	24-epi-campesterol,NADPH:oxygen oxidoreductase (22,23-dehydrogenating)
+R11099	2-iminopropanoate aminohydrolase
+R11098	2-iminobutanoate aminohydrolase
+R00527	S-Formylglutathione hydrolase
+-R00529	ATP:sulfate adenylyltransferase
+-R00093	L-glutamate:NAD+ oxidoreductase (transaminating)
+R08954	5alpha-dihydrodeoxycorticosterone:NADP+ delta4-oxidoreductase
+R01059	ATP:D-glyceraldehyde 3-phosphotransferase
+R01054	ADP-ribose ribophosphohydrolase
+-R01724	5-phospho-alpha-D-ribose 1-diphosphate:nicotinate ligase (ADP, diphosphate-forming)
+R02493	ATP:pyridoxal 5'-phosphotransferase
+-R02493	ATP:pyridoxal 5'-phosphotransferase
+R05801	ATP:1D-myo-inositol-1,4,5,6-tetrakisphosphate 3-phosphotransferase
+R02038	CTP:ethanolamine-phosphate cytidylyltransferase
+-R02038	CTP:ethanolamine-phosphate cytidylyltransferase
+R02035	6-Phospho-D-glucono-1,5-lactone lactonohydrolase
+R04558	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate-lyase (L-glutamine-hydrolysing; 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide-forming)
+R03601	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)
+-R03601	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)
+R08549	2-Oxoglutarate dehydrogenase complex
+R08548	R08548
+R02556	Deoxyadenosine aminohydrolase
+R02557	Deoxyadenosine:orthophosphate ribosyltransferase
+-R02557	Deoxyadenosine:orthophosphate ribosyltransferase
+R00772	D-mannose-6-phosphate aldose-ketose-isomerase
+-R00772	D-mannose-6-phosphate aldose-ketose-isomerase
+R00770	ITP:D-fructose-6-phosphate 1-phosphotransferase
+R00771	D-glucose-6-phosphate aldose-ketose-isomerase
+-R00771	D-glucose-6-phosphate aldose-ketose-isomerase
+R00776	(S)-ureidoglycolate urea-lyase (glyoxylate-forming)
+-R00776	(S)-ureidoglycolate urea-lyase (glyoxylate-forming)
+R07116	2-bromoacetaldehyde:glutathione S-(formylmethyl)transferase
+-R07116	2-bromoacetaldehyde:glutathione S-(formylmethyl)transferase
+R07113	1,2-dibromoethane:glutathione ethylenetransferase (episulfonium-forming)
+-R07113	1,2-dibromoethane:glutathione ethylenetransferase (episulfonium-forming)
+R04891	3-Methoxy-4-hydroxyphenylglycolaldehyde:NAD+ oxidoreductase
+R01558	oxalate:CoA ligase (AMP-forming)
+-R08198	R08198
+R00177	ATP:L-methionine S-adenosyltransferase
+R00178	S-adenosyl-L-methionine carboxy-lyase [S-adenosyl 3-(methylsulfanyl)propylamine-forming]
+R00549	ATP:riboflavin 5'-phosphotransferase
+-R00549	ATP:riboflavin 5'-phosphotransferase
+R00548	riboflavin-5-phosphate phosphohydrolase
+R08391	R08391
+R08392	R08392
+R12152	R12152
+R07636	FAD AMP-lyase (cyclic-FMN-forming)
+R03018	ATP:pantothenate 4'-phosphotransferase
+-R03018	ATP:pantothenate 4'-phosphotransferase
+-R03012	L-Histidinol:NAD+ oxidoreductase
+R03013	L-histidinol-phosphate phosphohydrolase
+-R01708	Pyridoxine:NADP+ 4-oxidoreductase
+R02058	acetyl-CoA:D-glucosamine-6-phosphate N-acetyltransferase
+R10953	ATP:1D-myo-inositol-1,3,4,5-tetrakisphosphate 6-phosphotransferase
+R01880	dGTP:uridine 5'-phosphotransferase
+R02619	3-sulfino-L-alanine:2-oxoglutarate aminotransferase
+-R02619	3-sulfino-L-alanine:2-oxoglutarate aminotransferase
+-R02610	5alpha-cholestan-3-one:NADP+ delta4-oxidoreductase
+R02530	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)
+-R02530	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)
+R02536	Phenylacetaldehyde:NAD+ oxidoreductase
+R02537	Aldehyde:NADP+ oxidoreductase
+-R00754	ethanol:NAD+ oxidoreductase
+R00756	ATP:D-fructose-6-phosphate 1-phosphotransferase
+R00751	L-threonine acetaldehyde-lyase (glycine-forming)
+-R00751	L-threonine acetaldehyde-lyase (glycine-forming)
+R07393	2,3-diketo-5-methylthiopentyl-1-phosphate keto---enol-isomerase
+-R07393	2,3-diketo-5-methylthiopentyl-1-phosphate keto---enol-isomerase
+R07394	2-hydroxy-5-(methylthio)-3-oxopent-1-enyl phosphate phosphohydrolase
+R02282	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase
+-R02282	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase
+R01397	carbamoyl-phosphate:L-aspartate carbamoyltransferase
+R01398	Carbamoyl-phosphate:L-ornithine carbamoyltransferase
+-R00936	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase
+R07934	(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA:oxygen 2-oxidoreductase
+-R07937	(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA:acetyl-CoA C-acyltransferase
+R09407	R09407
+R07939	caffeine:oxygen oxidoreductase (N3-demethylating)
+R09406	R09406
+R03220	Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)
+R03223	2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase
+R03222	protoporphyrinogen-IX:oxygen oxidoreductase
+-R03222	protoporphyrinogen-IX:oxygen oxidoreductase
+-R05234	cis-3-chloro-2-propene-1-ol:NAD+ oxidoreductase
+R01575	D-Arabinose:NADP+ 1-oxidoreductase
+R01574	D-Arabinose:NAD+ 1-oxidoreductase
+-R05233	trans-3-Chloro-2-propene-1-ol:NAD+ oxidoreductase
+R08221	5'-deoxy-5-fluorocytidine aminohydrolase
+R00434	GTP diphosphate-lyase (cyclizing; 3',5'-cyclic-GMP-forming)
+-R00434	GTP diphosphate-lyase (cyclizing; 3',5'-cyclic-GMP-forming)
+R10183	UTP:N-acetyl-alpha-D-galactosamine-1-phosphate uridylyltransferase
+-R10183	UTP:N-acetyl-alpha-D-galactosamine-1-phosphate uridylyltransferase
+R11329	Fe-coproporphyrin-III ferro-lyase (coproporphyrin-III-forming)
+-R11329	Fe-coproporphyrin-III ferro-lyase (coproporphyrin-III-forming)
+R00569	CTP phosphohydrolase
+R07238	S-adenosyl-L-methionine:precorrin-1 C-methyltransferase
+R03035	ATP:pantetheine-4'-phosphate adenylyltransferase
+R11593	(R)-2-hydroxyglutarate:pyruvate oxidoreductase [(R)-lactate-forming]
+-R11593	(R)-2-hydroxyglutarate:pyruvate oxidoreductase [(R)-lactate-forming]
+R09099	5,10-methylenetetrahydromethanopterin:glycine hydroxymethyltransferase
+-R09099	5,10-methylenetetrahydromethanopterin:glycine hydroxymethyltransferase
+R01186	1D-myo-inositol 4-phosphate phosphohydrolase
+R01187	1D-myo-inositol 3-phosphate phosphohydrolase
+R01185	1D-myo-inositol 1-phosphate phosphohydrolase
+-R03858	Lauroyl-CoA:acetyl-CoA C-acyltransferase
+-R03856	trans-Dodec-2-enoyl-CoA reductase
+-R03857	lauroyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase
+R03165	Hydroxymethylbilane hydro-lyase(cyclizing)
+R10845	(2S,3S)-3-methylphenylalanine:2-oxoglutarate aminotransferase
+-R10845	(2S,3S)-3-methylphenylalanine:2-oxoglutarate aminotransferase
+R02984	dTDPglucose 4-epimerase
+-R02984	dTDPglucose 4-epimerase
+R02678	Indole-3-acetaldehyde:NAD+ oxidoreductase
+R07001	Naphthalene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R07000	naphthalene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R07003	(1R)-glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)
+R00289	UTP:alpha-D-glucose-1-phosphate uridylyltransferase
+-R00289	UTP:alpha-D-glucose-1-phosphate uridylyltransferase
+R07004	(1S)-hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)
+R07069	3,4-dihydro-3-hydroxy-4-S-glutathionyl bromobenzene glutathione-lyase (epoxide-forming)
+R07411	(2E,6E)-farnesyl-diphosphate:protoheme IX farnesyltranstransferase
+-R07411	(2E,6E)-farnesyl-diphosphate:protoheme IX farnesyltranstransferase
+R04494	UDP-N-acetyl-D-glucosamine:N-acetyl-D-glucosaminyl diphosphodolichol N-acetyl-D-glucosaminyltransferase
+R01376	L-Tryptophan:phenylpyruvate aminotransferase
+R01373	prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)
+-R01513	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase
+-R01512	ATP:3-phospho-D-glycerate 1-phosphotransferase
+R01514	ATP:(R)-glycerate 3-phosphotransferase
+-R01514	ATP:(R)-glycerate 3-phosphotransferase
+R08964	ATP:1D-myo-inositol-5-diphosphate-pentakisphosphate phosphotransferase
+-R08964	ATP:1D-myo-inositol-5-diphosphate-pentakisphosphate phosphotransferase
+R00755	R00755
+-R00755	R00755
+R09372	methaneselenol:NADP+ oxidoreductase
+-R09372	methaneselenol:NADP+ oxidoreductase
+R06983	S-(hydroxymethyl)glutathione dehydrogenase
+R06985	trans-Hex-2-enoyl-CoA reductase
+R07392	S-methyl-5-thio-D-ribulose-1-phosphate hydro-lyase
+R00188	adenosine-3',5'-bisphosphate 3'-phosphohydrolase
+R07395	5-(methylthio)-2,3-dioxopentyl-phosphate phosphohydrolase (isomerizing)
+R02868	dATP:D-hexose 6-phosphotransferase
+R02869	S-adenosylmethioninamine:spermidine 3-aminopropyltransferase
+-R02869	S-adenosylmethioninamine:spermidine 3-aminopropyltransferase
+R02864	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+-R02864	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+R02865	ATP:D-hexose 6-phosphotransferase
+R07396	R07396
+-R07396	R07396
+R04326	R04326
+-R04326	R04326
+-R04328	R04328
+R08244	6-thioxanthine 5'-monophosphate:L-glutamine amido-ligase (AMP-forming)
+-R08244	6-thioxanthine 5'-monophosphate:L-glutamine amido-ligase (AMP-forming)
+R08245	6-thioguanosine monophosphate:diphosphate phospho-D-ribosyltransferase
+-R08245	6-thioguanosine monophosphate:diphosphate phospho-D-ribosyltransferase
+R08240	6-thioinosine 5'-monophosphate:NAD+ oxidoreductase
+-R08240	6-thioinosine 5'-monophosphate:NAD+ oxidoreductase
+R03050	2-Acetolactate pyruvate-lyase (carboxylating)
+-R03050	2-Acetolactate pyruvate-lyase (carboxylating)
+R03051	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+-R03057	(7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyicosa-7,9,11,14-tetraenoate hydrolase
+R02283	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase
+-R02283	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase
+R00830	succinyl-CoA:glycine C-succinyltransferase (decarboxylating)
+-R00830	succinyl-CoA:glycine C-succinyltransferase (decarboxylating)
+R02098	ATP:dUMP phosphotransferase
+-R02098	ATP:dUMP phosphotransferase
+R02095	dTTP nucleotidohydrolase
+R02094	ATP:dTMP phosphotransferase
+-R02094	ATP:dTMP phosphotransferase
+R02097	dTTP:uridine 5'-phosphotransferase
+R02096	dTTP:cytidine 5'-phosphotransferase
+-R02096	dTTP:cytidine 5'-phosphotransferase
+R02091	dGTP:cytidine 5'-phosphotransferase
+-R02091	dGTP:cytidine 5'-phosphotransferase
+R02090	ATP:dGMP phosphotransferase
+-R02090	ATP:dGMP phosphotransferase
+R02093	ATP:dTDP phosphotransferase
+-R02093	ATP:dTDP phosphotransferase
+R02092	dTDP phosphohydrolase
+R10288	(6S)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine-dinucleotide-phosphate hydro-lyase (ATP-hydrolysing; NADPH-forming)
+R10281	(6R)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine-dinucleotide-phosphate 6-epimerase
+-R10281	(6R)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine-dinucleotide-phosphate 6-epimerase
+R10280	(6R)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine-dinucleotide 6-epimerase
+-R10280	(6R)-6beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine-dinucleotide 6-epimerase
+-R01395	ATP:carbamate phosphotransferase
+R00132	carbonate hydro-lyase (carbon-dioxide-forming)
+-R00132	carbonate hydro-lyase (carbon-dioxide-forming)
+-R00248	L-glutamate:NADP+ oxidoreductase (deaminating)
+R00245	L-glutamate gamma-semialdehyde:NAD+ oxidoreductase
+-R00243	L-glutamate:NAD+ oxidoreductase (deaminating)
+R00139	ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase
+-R00139	ATP:2'-deoxy-5-hydroxymethylcytidine-5'-diphosphate phosphotransferase
+-R01354	ATP:propanoate adenylyltransferase
+R01682	3-Sulfo-L-alanine carboxy-lyase (taurine-forming)
+R08648	pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)
+R03269	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase
+R03260	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)
+-R09932	(S)-benzoin:NADP+ oxidoreductase
+R02135	thiamin monophosphate phosphohydrolase
+-R02133	Thiamin hydrolase
+R00674	L-serine hydro-lyase (adding indole; L-tryptophan-forming)
+R03460	Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase
+R03430	D-myo-Inositol 1,3,4,5-tetrakisphosphate 5-phosphohydrolase
+R08267	R08267
+R07760	R07760
+-R07760	R07760
+R07761	octadecanoyl-CoA:NADP+ trans-2-oxidoreductase
+-R00472	acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)
+R00479	isocitrate glyoxylate-lyase (succinate-forming)
+-R00479	isocitrate glyoxylate-lyase (succinate-forming)
+R02301	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)
+R02300	S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)
+R04892	3-Methoxy-4-hydroxyphenylglycolaldehyde:NADP+ oxidoreductase
+R03899	N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming)
+R03893	4-Carboxymethylenebut-2-en-4-olide lactonohydrolase
+-R03893	4-Carboxymethylenebut-2-en-4-olide lactonohydrolase
+-R00115	glutathione:NADP+ oxidoreductase
+R00261	L-glutamate 1-carboxy-lyase (4-aminobutanoate-forming)
+R00264	2,5-dioxopentanoate:NADP+ 5-oxidoreductase
+R00267	Isocitrate:NADP+ oxidoreductase (decarboxylating)
+-R00267	Isocitrate:NADP+ oxidoreductase (decarboxylating)
+R11101	R11101
+R01330	dATP:D-mannose 6-phosphotransferase
+-R07953	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA:acetyl-CoA C-acyltransferase
+R07950	(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA:oxygen 2-oxidoreductase
+R03243	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase
+-R03243	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase
+R03245	ATP:(R)-5-phosphomevalonate phosphotransferase
+-R03245	ATP:(R)-5-phosphomevalonate phosphotransferase
+-R02236	dihydrofolate:NADP+ oxidoreductase
+R08980	11beta,17beta-dihydroxy-4-androsten-3-one:NADP+ 17-oxidoreductase
+-R08980	11beta,17beta-dihydroxy-4-androsten-3-one:NADP+ 17-oxidoreductase
+R03409	guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase
+R03408	R03408
+-R02750	R02750
+R10852	L-allo-threonine:NADP+ 3-oxidoreductase (decarboxylating)
+-R10851	L-allo-threonine:NADP+ 3-oxidoreductase
+R02326	ATP:dCDP phosphotransferase
+-R02326	ATP:dCDP phosphotransferase
+R02324	ATP:N-ribosylnicotinamide 5'-phosphotransferase
+R01470	sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase
+R10065	ATP:1D-myo-inositol-1,4,5-trisphosphate 3,6-phosphotransferase
+R00875	D-Glucitol:NAD+ 2-oxidoreductase
+-R00875	D-Glucitol:NAD+ 2-oxidoreductase
+R00876	ITP:D-fructose 6-phosphotransferase
+R04178	coproporphyrinogen-III:oxygen oxidoreductase (coproporphyrin-forming)
+-R04178	coproporphyrinogen-III:oxygen oxidoreductase (coproporphyrin-forming)
+R04171	3-Hydroxy-L-kynurenine:2-oxoglutarate aminotransferase
+-R04171	3-Hydroxy-L-kynurenine:2-oxoglutarate aminotransferase
+R04173	3-Phosphoserine:2-oxoglutarate aminotransferase
+-R04173	3-Phosphoserine:2-oxoglutarate aminotransferase
+R05779	5-Diphosphoinositol pentakisphosphate diphosphohydrolase
+R02922	Creatinine iminohydrolase
+-R02922	Creatinine iminohydrolase
+R11894	ATP:5-fluorouridine-diphosphate phosphotransferase
+-R11894	ATP:5-fluorouridine-diphosphate phosphotransferase
+R02697	4-Hydroxyphenylacetaldehyde:NADP+ oxidoreductase
+R02695	4-Hydroxyphenylacetaldehyde:NAD+ oxidoreductase
+R09030	D-allose-6-phosphate aldose-ketose-isomerase
+-R09030	D-allose-6-phosphate aldose-ketose-isomerase
+-R00200	ATP:pyruvate 2-O-phosphotransferase
+R00209	pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)
+R05553	4-amino-4-deoxychorismate pyruvate-lyase
+R01648	4-aminobutanoate:2-oxoglutarate aminotransferase
+-R01648	4-aminobutanoate:2-oxoglutarate aminotransferase
+R01641	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase
+-R01641	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase
+R07429	5alpha-campestan-3-one:NADP+ delta4-oxidoreductase
+R06590	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase
+-R06590	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehydetransferase
+R07237	S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase
+R07235	S-adenosyl-L-methionine:2-nonaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone 3-O-methyltransferase
+-R07235	S-adenosyl-L-methionine:2-nonaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone 3-O-methyltransferase
+R00999	O-Succinyl-L-homoserine succinate-lyase (deaminating; 2-oxobutanoate-forming)
+R02175	S-adenosyl-L-methionine:2-hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone 3-O-methyltransferase
+-R02175	S-adenosyl-L-methionine:2-hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone 3-O-methyltransferase
+-R06927	(2-naphthyl)methanol:NAD+ oxidoreductase
+-R04439	(R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+-R11765	tetrahydrobiopterin:NADP+ oxidoreductase (7,8-dihydrobiopterin-forming)
+R02778	Trehalose-6-phosphate phosphohydrolase
+-R00430	GTP:pyruvate 2-O-phosphotransferase
+R00432	Succinate:CoA ligase (GDP-forming)
+-R00432	Succinate:CoA ligase (GDP-forming)
+R02340	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase
+-R02340	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate D-glyceraldehyde-3-phosphate-lyase
+R04209	1-(5-phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase
+-R04209	1-(5-phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase
+-R00858	hydrogen-sulfide:NADP+ oxidoreductase
+R05758	threo-3-hydroxy-L-aspartate ammonia-lyase
+R02909	5-hydroxytryptamine:oxygen 2,3-dioxygenase (indole-decyclizing)
+R00224	pyruvate carboxy-lyase (acetaldehyde-forming)
+-R00226	pyruvate:pyruvate acetaldehydetransferase (decarboxylating)
+R00227	Acetyl-CoA hydrolase
+R00220	L-serine ammonia-lyase
+-R03758	R03758
+R01939	L-2-aminoadipate:2-oxoglutarate aminotransferase
+-R01939	L-2-aminoadipate:2-oxoglutarate aminotransferase
+R01934	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)
+-R01934	(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)
+R01933	2-oxoadipate dehydrogenase complex
+R01931	thiosulfate:cyanide sulfurtranserase
+-R01931	thiosulfate:cyanide sulfurtranserase
+R03283	4-Trimethylammoniobutanal:NAD+ 1-oxidoreductase
+R07447	22alpha-hydroxy-5alpha-campestan-3-one:NADP+ delta4-oxidoreductase
+R01663	dCMP aminohydrolase
+R02485	deoxycytidine aminohydrolase
+R06223	squalene synthase
+-R03991	myristoyl-CoA:acetylCoA C-myristoyltransferase
+-R03990	tetradecanoyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase
+R11783	ADP-alpha-D-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase (configuration-retaining)
+-R11783	ADP-alpha-D-glucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase (configuration-retaining)
+R10783	3-hexenol:NAD+ oxidoreductase
+R05590	Acylamide aminohydrolase
+R02715	D-Arabinono-1,4-lactone:oxygen oxidoreductase
+R00416	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase
+-R00416	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase
+R00418	UDP-N-acetyl-D-glucosamine 4-epimerase
+-R00418	UDP-N-acetyl-D-glucosamine 4-epimerase
+R07298	sn-glycerol-1-phosphate phosphohydrolase
+-R09993	4-amino-5-aminomethyl-2-methylpyrimidine aminohydrolase
+R01123	Isopentenyl-diphosphate delta3-delta2-isomerase
+-R01123	Isopentenyl-diphosphate delta3-delta2-isomerase
+R01126	inosine 5'-monophosphate phosphohydrolase
+-R01127	IMP 1,2-hydrolase (decyclizing)
+R05733	4beta-hydroxymethyl-4alpha-methyl-5alpha-cholest-7-en-3beta-ol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+-R05733	4beta-hydroxymethyl-4alpha-methyl-5alpha-cholest-7-en-3beta-ol,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+R05734	3beta-hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carbaldehyde,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+-R05734	3beta-hydroxy-4beta-methyl-5alpha-cholest-7-ene-4alpha-carbaldehyde,ferrocytochrome-b5:oxygen oxidoreductase (hydroxylating)
+R00867	ATP:D-fructose 6-phosphotransferase
+-R00867	ATP:D-fructose 6-phosphotransferase
+R00103	NAD+ phosphohydrolase
+R04065	Imidazole acetaldehyde:NAD+ oxidoreductase
+-R03777	octanoyl-CoA:electron-transfer flavoprotein 2-oxidoreductase
+-R03776	trans-Oct-2-enoyl-CoA reductase
+R10993	L-glutamate:2-aminobutanoate gamma-ligase (ADP-forming)
+R10991	2-aminobutanoate:2-oxoglutarate aminotransferase
+-R10991	2-aminobutanoate:2-oxoglutarate aminotransferase
+R01959	N-Formyl-L-kynurenine amidohydrolase
+R01954	L-Citrulline:L-aspartate ligase (AMP-forming)
+-R01954	L-Citrulline:L-aspartate ligase (AMP-forming)
+R01956	L-Kynurenine:2-oxoglutarate aminotransferase
+-R01956	L-Kynurenine:2-oxoglutarate aminotransferase
+R00602	methanol:hydrogen-peroxide oxidoreductase
+R00959	alpha-D-Glucose 1-phosphate 1,6-phosphomutase
+-R00959	alpha-D-Glucose 1-phosphate 1,6-phosphomutase
+-R03971	gamma-glutamyl-beta-aminopropiononitrile amidohydrolase
+-R03970	(5-glutamyl)-peptide:amino-acid 5-glutamyltransferase
+R00221	D-serine ammonia-lyase
+R02736	beta-D-glucose-6-phosphate:NADP+ 1-oxoreductase
+-R02736	beta-D-glucose-6-phosphate:NADP+ 1-oxoreductase
+R02737	UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase
+R02731	D-Fructose-2,6-bisphosphate 2-phosphohydrolase
+R02732	ATP:D-fructose-6-phosphate 2-phosphotransferase
+-R02732	ATP:D-fructose-6-phosphate 2-phosphotransferase
+R04559	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase
+-R04559	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase
+R10089	D-ribose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase (glutamine-hydrolyzing)
+-R02946	(R,R)-Butane-2,3-diol:NAD+ oxidoreductase
+-R07136	(2R)-3-sulfolactate:NAD+ oxidoreductase
+R02670	R02670
+-R02670	R02670
+R07002	(1R)-hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene glutathione-lyase (epoxide-forming)
+-R09477	xylitol:NAD+ oxidoreductase
+-R01431	xylitol:NADP+ oxidoreductase
+-R01978	acetyl-CoA:acetoacetyl-CoA C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)
+R07489	beta-sitosterol,NADPH:oxygen oxidoreductase (22,23-dehydrogenating)
+R07486	delta7-avenasterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+-R07486	delta7-avenasterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+R07481	R07481
+-R07481	R07481
+R07483	R07483
+R00590	L-serine hydro-lyase
+-R00590	L-serine hydro-lyase
+R00621	R00621
+R10159	adrenodoxin:NADP+ oxidoreductase
+-R10159	adrenodoxin:NADP+ oxidoreductase
+R00970	ITP:uridine 5'-phosphotransferase
+R00974	Cytosine aminohydrolase
+R02199	L-Isoleucine:2-oxoglutarate aminotransferase
+-R02199	L-Isoleucine:2-oxoglutarate aminotransferase
+R01086	2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)
+-R01086	2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)
+R01083	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)
+-R01083	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)
+R01082	(S)-malate hydro-lyase (fumarate-forming)
+-R01082	(S)-malate hydro-lyase (fumarate-forming)
+R01080	Uridine ribohydrolase
+R09442	R09442
+-R09442	R09442
+R04672	(S)-2-Acetolactate pyruvate-lyase (carboxylating)
+-R04672	(S)-2-Acetolactate pyruvate-lyase (carboxylating)
+R04457	5-amino-6-(D-ribitylamino)uracil butanedionetransferase
+R04903	5-Hydroxyindoleacetaldehyde:NAD+ oxidoreductase
+R05506	R05506
+-R05506	R05506
+R00369	L-Alanine:glyoxylate aminotransferase
+-R00369	L-Alanine:glyoxylate aminotransferase
+R02327	dCTP:uridine 5'-phosphotransferase
+R08179	(5Z,8Z,11Z,14Z,17Z)-icosapentaenoyl-CoA hydrolase
+R08174	stearoyl-CoA hydrolase
+R08175	Icosanoyl-CoA hydrolase
+R08176	oleoyl-CoA hydrolase
+R08177	Linoleoyl-CoA hydrolase
+R08282	carboxyphosphamide:NAD+ oxidoreductase
+-R08282	carboxyphosphamide:NAD+ oxidoreductase
+R08283	carboxyphosphamide:NADP+ oxidoreductase
+-R08283	carboxyphosphamide:NADP+ oxidoreductase
+R08280	4-glutathionyl cyclophosphamide hydrolase
+-R08280	4-glutathionyl cyclophosphamide hydrolase
+R08281	alcophosphamide:NAD+ oxidoreductase
+-R08281	alcophosphamide:NAD+ oxidoreductase
+R11861	glutathione gamma-glutamyl cyclotransferase (5-oxoproline-forming)
+R01163	L-histidinal:NAD+ oxidoreductase
+R05086	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)
+R05085	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase
+-R05085	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase
+R07092	1,1-dichloroethylene-epoxide:glutathione S-(chloroepoxyethyl)transferase [2-(S-glutathionyl)acetyl-chloride-forming]
+-R07092	1,1-dichloroethylene-epoxide:glutathione S-(chloroepoxyethyl)transferase [2-(S-glutathionyl)acetyl-chloride-forming]
+R09246	geranylgeranyl-diphosphate:isopentenyl-diphosphate transferase (adding 2 isopentenyl units)
+R07094	2-(S-glutathionyl)acetyl-chloride:glutathione 2-(S-glutathionyl)acetyltransferase
+-R07094	2-(S-glutathionyl)acetyl-chloride:glutathione 2-(S-glutathionyl)acetyltransferase
+R07215	lathosterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+-R07215	lathosterol,ferrocytochrome b5:oxygen oxidoreductase 5,6-dehydrogenating
+R07641	R07641
+-R07641	R07641
+-R04463	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)
+R01993	(S)-dihydroorotate amidohydrolase
+-R01993	(S)-dihydroorotate amidohydrolase
+R01518	D-phosphoglycerate 2,3-phosphomutase
+-R01518	D-phosphoglycerate 2,3-phosphomutase
+-R07892	R07892
+R06516	sphingosine-1-phosphate palmitaldehyde-lyase (phosphoethanolamine-forming)
+-R07895	R07895
+R02466	3-sulfino-L-alanine carboxy-lyase
+R01731	L-arogenate:2-oxoglutarate aminotransferase
+-R01731	L-arogenate:2-oxoglutarate aminotransferase
+R09421	R09421
+-R09421	R09421
+R09423	R09423
+-R09423	R09423
+R09424	R09424
+-R09424	R09424
+R01209	2,3-Dihydroxy-3-methylbutanoate hydro-lyase
+R04929	ATP:selenate adenylyltransferase
+-R04929	ATP:selenate adenylyltransferase
+R04928	ATP:adenylylsulfate 3'-phosphotransferase
+-R04928	ATP:adenylylsulfate 3'-phosphotransferase
+R05691	3-beta-Hydroxy-steroid:NADP+ 3-oxidoreductase
+-R05691	3-beta-Hydroxy-steroid:NADP+ 3-oxidoreductase
+R09425	R09425
+-R09425	R09425
+R00005	urea-1-carboxylate amidohydrolase
+R00009	hydrogen-peroxide:hydrogen-peroxide oxidoreductase
+R00344	Pyruvate:carbon-dioxide ligase (ADP-forming)
+-R00344	Pyruvate:carbon-dioxide ligase (ADP-forming)
+-R00342	(S)-malate:NAD+ oxidoreductase
+R00341	ATP:oxaloacetate carboxy-lyase (transphosphorylating;phosphoenolpyruvate-forming)
+-R00341	ATP:oxaloacetate carboxy-lyase (transphosphorylating;phosphoenolpyruvate-forming)
+R00348	2-oxosuccinamate amidohydrolase
+R01830	beta-D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase
+-R01830	beta-D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase
+R05069	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)
+-R05069	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)
+-R05068	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)
+R05064	(S)-3-Hydroxyisobutyryl-CoA hydrolase
+R09375	2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one:NAD+ 1'-oxidoreductase
+R10619	D-galactose 1-epimerase
+-R10619	D-galactose 1-epimerase
+R09376	2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one:NADP+ 1'-oxidoreductase
+-R05202	ATP:1D-myo-inositol 1,3,4,5,6-pentakisphosphate 2-phosphotransferase
+R04001	3-Isopropylmalate hydro-lyase
+-R04001	3-Isopropylmalate hydro-lyase
+-R02892	4,5alpha-dihydrocortisone:NADP+ delta4-oxidoreductase
+-R03778	Octanoyl-CoA:acetyl-CoA C-acyltransferase
+R02867	ITP:D-hexose 6-phosphotransferase
+-R08632	L-cystathionine cysteine-lyase
+R08639	alpha-D-glucose 1,6-phosphomutase
+-R08639	alpha-D-glucose 1,6-phosphomutase
+R02401	glutarate-semialdehyde:NAD+ oxidoreductase
+R02406	Itaconate:CoA ligase (IDP-forming)
+-R02406	Itaconate:CoA ligase (IDP-forming)
+R02404	Itaconate:CoA ligase (ADP-forming)
+-R02404	Itaconate:CoA ligase (ADP-forming)
+R02405	Itaconate:CoA ligase (GDP-forming)
+-R02405	Itaconate:CoA ligase (GDP-forming)
+R02408	L-cystine thiocysteine-lyase (deaminating; pyruvate-forming)
+-R02408	L-cystine thiocysteine-lyase (deaminating; pyruvate-forming)
+R00667	L-Ornithine:2-oxo-acid aminotransferase
+-R00667	L-Ornithine:2-oxo-acid aminotransferase
+R00668	L-ornithine:2-oxoglutarate aminotransferase
+-R00937	5,6,7,8-tetrahydrofolate:NAD+ oxidoreductase
+R09409	glutathione-S-transferase
+-R09409	glutathione-S-transferase
+R09408	R09408
+-R00939	5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase
+-R03313	L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)
+R09405	R09405
+R09404	R09404
+-R01229	GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase
+R01226	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase
+-R01226	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase
+-R01224	5-methyltetrahydrofolate:NADP+ oxidoreductase
+R01221	glycine synthase
+-R01221	glycine synthase
+R01220	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase
+-R01220	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase
+R04941	Selenocystathionine L-homocysteine-lyase (deaminating)
+-R04941	Selenocystathionine L-homocysteine-lyase (deaminating)
+R04942	L-Serine hydro-lyase (adding homocysteine)
+-R04942	L-Serine hydro-lyase (adding homocysteine)
+R04945	O-Acetylhomoserine succinate-lyase (adding cysteine)
+-R04945	O-Acetylhomoserine succinate-lyase (adding cysteine)
+R04944	O-phosphorylhomoserine:selenocysteine Se-(3-amino-3-carboxypropyl)transferase
+-R04944	O-phosphorylhomoserine:selenocysteine Se-(3-amino-3-carboxypropyl)transferase
+R04946	O4-succinyl-L-homoserine:L-selenocysteine Se-(3-amino-3-carboxypropyl)transferase
+-R04946	O4-succinyl-L-homoserine:L-selenocysteine Se-(3-amino-3-carboxypropyl)transferase
+R00066	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase
+R00321	Acetamide amidohydrolase
+R00328	GDP phosphohydrolase
+R04325	10-formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase
+-R04325	10-formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase
+R00497	gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming)
+R00494	glutathione gamma-glutamylaminopeptidase
+-R03443	N-acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating)
+R01818	D-mannose 6-phosphate 1,6-phosphomutase
+-R01818	D-mannose 6-phosphate 1,6-phosphomutase
+R01819	D-mannose-6-phosphate aldose-ketose-isomerase
+-R01819	D-mannose-6-phosphate aldose-ketose-isomerase
+R05046	formamidopyrimidine nucleoside triphosphate amidohydrolase
+R05048	2,5-diaminopyrimidine nucleoside triphosphate mutase
+-R05048	2,5-diaminopyrimidine nucleoside triphosphate mutase
+-R02235	dihydrofolate:NAD+ oxidoreductase
+R02237	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)
+R01600	ATP:beta-D-glucose 6-phosphotransferase
+-R01600	ATP:beta-D-glucose 6-phosphotransferase
+R08312	R08312
+-R08312	R08312
+R01602	D-glucose 1-epimerase
+-R01602	D-glucose 1-epimerase
+R00955	UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase
+-R00955	UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase
+R08307	3-carbamoyl-2-phenylpropionaldehyde:NAD+ oxidoreductase
+-R08306	2-phenyl-1,3-propanediol monocarbamate:NAD+ oxidoreductase
+R08658	glycerol-1-phosphate phosphohydrolase
+R02425	(S)-allantoin amidohydrolase
+R02422	Allantoate amidinohydrolase
+R00684	L-Tryptophan:2-oxoglutarate aminotransferase
+R03084	3-Dehydroquinate hydro-lyase
+-R03084	3-Dehydroquinate hydro-lyase
+R03083	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing)
+R03089	R03089
+R03088	R03088
+R01021	ATP:choline phosphotransferase
+R03330	D-myo-Inositol-1,3-bisphosphate 3-phosphohydrolase
+-R01248	L-Proline:NAD+ 5-oxidoreductase
+R08193	N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase
+-R08193	N-Acetyl-D-glucosamine 1-phosphate 1,6-phosphomutase
+R03530	ATP:dIDP phosphotransferase
+-R03530	ATP:dIDP phosphotransferase
+R07098	trichloroethene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R07099	trichloroethene, NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R01878	Cytidine aminohydrolase
+R01870	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase
+-R01870	Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase
+-R07899	R07899
+R03503	ATP:6-hydroxymethyl-7,8-dihydropterin 6'-diphosphotransferase
+-R03503	ATP:6-hydroxymethyl-7,8-dihydropterin 6'-diphosphotransferase
+R03504	7,8-dihydroneopterin glycolaldehyde-lyase [6-(hydroxymethyl)-7,8-dihydropterin-forming]
+-R03504	7,8-dihydroneopterin glycolaldehyde-lyase [6-(hydroxymethyl)-7,8-dihydropterin-forming]
+R03509	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase
+-R03509	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase
+R08095	3-methylcrotonyl-CoA:acetyl-CoA C-acyltransferase
+R08091	7-methyl-3-oxo-6-octenoyl-CoA:acetyl-CoA C-acyltransferase
+R05799	ATP:1D-myo-inositol-hexakisphosphate phosphotransferase
+-R05799	ATP:1D-myo-inositol-hexakisphosphate phosphotransferase
+R08359	S-adenosylmethioninamine:cadaverine 3-aminopropyltransferase
+-R08359	S-adenosylmethioninamine:cadaverine 3-aminopropyltransferase
+R04779	ATP:D-fructose-6-phosphate 1-phosphotransferase
+R04770	Selenomethionine methanethiol-lyase (deaminating)
+-R04770	Selenomethionine methanethiol-lyase (deaminating)
+R04771	ATP:L-selenomethione S-adenosyltransferase
+-R04771	ATP:L-selenomethione S-adenosyltransferase
+R00769	UTP:D-fructose-6-phosphate 1-phosphotransferase
+-R00769	UTP:D-fructose-6-phosphate 1-phosphotransferase
+R07080	Benzpyrene,NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+-R07080	Benzpyrene,NADPH:oxygen oxidoreductase (RH-hydroxylating or -epoxidizing)
+R08575	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase
+-R08575	sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase
+R00835	D-glucose-6-phosphate:NADP+ 1-oxidoreductase
+-R00835	D-glucose-6-phosphate:NADP+ 1-oxidoreductase
+R00519	formate:NAD+ oxidoreductase
+-R00519	formate:NAD+ oxidoreductase
+R00516	UTP:cytidine 5'-phosphotransferase
+-R00516	UTP:cytidine 5'-phosphotransferase
+R00517	GTP:cytidine 5'-phosphotransferase
+-R00517	GTP:cytidine 5'-phosphotransferase
+R00514	CDP phosphohydrolase
+R00512	ATP:CMP phosphotransferase
+-R00512	ATP:CMP phosphotransferase
+R00513	ATP:cytidine 5'-phosphotransferase
+-R00513	ATP:cytidine 5'-phosphotransferase
